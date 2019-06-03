@@ -25,3 +25,4 @@ css/
 fonts/
 js/
 images/
+gallery/
