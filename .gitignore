@@ -1,0 +1,17 @@
+target/
+
+.idea/
+
+## File-based project format
+*.ipr
+*.iml
+*.iws
+
+rebel.xml
+
+## Repository ##
+*.lock
+repository/repository
+repository/workspaces
+repository/version
+storage/
