@@ -1,0 +1,7 @@
+/content/gallery/alvanthippoproject:
+  jcr:primaryType: hippogallery:stdImageGallery
+  jcr:mixinTypes: ['hippo:named', 'mix:referenceable']
+  jcr:uuid: 4a91f5ab-811f-452c-a1ad-a081c2d8096d
+  hippo:name: Alvant Hippo Project
+  hippostd:foldertype: [new-alvanthippoproject-imageset-folder]
+  hippostd:gallerytype: ['alvanthippoproject:imageset']

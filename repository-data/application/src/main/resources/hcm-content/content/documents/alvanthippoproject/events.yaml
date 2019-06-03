@@ -1,0 +1,146 @@
+/content/documents/alvanthippoproject/events:
+  .meta:order-before: content
+  jcr:primaryType: hippostd:folder
+  jcr:mixinTypes: ['hippotranslation:translated', 'mix:referenceable']
+  jcr:uuid: 421d8dbb-4722-4332-a0ed-0a1c660a01ba
+  hippostd:foldertype: [new-events-document, new-events-folder]
+  hippotranslation:id: 3378cbdd-2763-483b-b36d-028be33cf36f
+  hippotranslation:locale: en
+  /2019:
+    jcr:primaryType: hippostd:folder
+    jcr:mixinTypes: ['hippotranslation:translated', 'mix:referenceable']
+    jcr:uuid: d3c6b505-aeeb-444a-8468-5903c7582481
+    hippostd:foldertype: [new-events-document, new-events-folder]
+    hippotranslation:id: 33e19707-bf88-4f75-8fa5-807fc3944d28
+    hippotranslation:locale: en
+    /06:
+      jcr:primaryType: hippostd:folder
+      jcr:mixinTypes: ['hippotranslation:translated', 'mix:referenceable']
+      jcr:uuid: fc4dabcd-142b-42d6-98c1-5ee13a31fe66
+      hippostd:foldertype: [new-events-document, new-events-folder]
+      hippotranslation:id: d9027f3c-4737-4628-871d-ac48fba4de0b
+      hippotranslation:locale: en
+      /breakfast:
+        jcr:primaryType: hippo:handle
+        jcr:mixinTypes: ['hippo:named', 'mix:referenceable']
+        jcr:uuid: b8f5eb45-7200-452a-b26e-3118a0dc60b8
+        hippo:name: Breakfast
+        /breakfast:
+          jcr:primaryType: alvanthippoproject:eventsdocument
+          jcr:mixinTypes: ['mix:referenceable']
+          jcr:uuid: 8b89ddfd-129f-4f67-9aad-b13d2f1870f0
+          alvanthippoproject:date: 2013-11-12T08:00:00+01:00
+          alvanthippoproject:documenttype: event
+          alvanthippoproject:enddate: 2020-06-03T12:27:00+02:00
+          alvanthippoproject:introduction: Start the day with a nice breakfast.
+          alvanthippoproject:location: Room 101
+          alvanthippoproject:title: Breakfast
+          hippo:availability: [live, preview]
+          hippostd:holder: admin
+          hippostd:state: published
+          hippostdpubwf:createdBy: admin
+          hippostdpubwf:creationDate: 2013-11-12T11:00:00+01:00
+          hippostdpubwf:lastModificationDate: 2013-11-12T11:11:00+01:00
+          hippostdpubwf:lastModifiedBy: admin
+          hippostdpubwf:publicationDate: 2013-11-12T12:16:00+01:00
+          hippotranslation:id: 2d3130ab-3366-4d59-bacc-1e2a1a1847db
+          hippotranslation:locale: en
+          /alvanthippoproject:content:
+            jcr:primaryType: hippostd:html
+            hippostd:content: |-
+              <html>
+                        <body>
+
+                        <p>Breakfast is served starting from 8:00 until 9:30.</p>
+
+                        </body>
+                        </html>
+          /alvanthippoproject:image:
+            jcr:primaryType: hippogallerypicker:imagelink
+            hippo:docbase: c8f03498-56eb-46c9-83b2-cf014f2e03d7
+            hippo:facets: []
+            hippo:modes: []
+            hippo:values: []
+      /introduction-speech:
+        jcr:primaryType: hippo:handle
+        jcr:mixinTypes: ['hippo:named', 'mix:referenceable']
+        jcr:uuid: 18e36c35-429d-4fee-b76e-eeabcbfc08bb
+        hippo:name: Introduction speech
+        /introduction-speech:
+          jcr:primaryType: alvanthippoproject:eventsdocument
+          jcr:mixinTypes: ['mix:referenceable']
+          jcr:uuid: 11e8b1c6-aa75-4705-bb20-e7e0f762cdf3
+          alvanthippoproject:date: 2013-11-12T10:00:00+01:00
+          alvanthippoproject:documenttype: event
+          alvanthippoproject:enddate: 2020-06-03T12:27:00+02:00
+          alvanthippoproject:introduction: After breakfast there will be an introductory
+            speech.
+          alvanthippoproject:location: Room 400
+          alvanthippoproject:title: Introduction speech
+          hippo:availability: [live, preview]
+          hippostd:holder: admin
+          hippostd:state: published
+          hippostdpubwf:createdBy: admin
+          hippostdpubwf:creationDate: 2013-11-12T11:02:00+01:00
+          hippostdpubwf:lastModificationDate: 2013-11-12T11:16:00+01:00
+          hippostdpubwf:lastModifiedBy: admin
+          hippostdpubwf:publicationDate: 2013-11-12T12:16:00+01:00
+          hippotranslation:id: bfc93de8-3761-446b-8b7b-9931fc039498
+          hippotranslation:locale: en
+          /alvanthippoproject:content:
+            jcr:primaryType: hippostd:html
+            hippostd:content: |-
+              <html>
+                        <body>
+
+                        <p>Speech will be about the workshop.</p>
+
+                        </body>
+                        </html>
+          /alvanthippoproject:image:
+            jcr:primaryType: hippogallerypicker:imagelink
+            hippo:docbase: 9f32434e-84e3-4150-a6f2-d89a67be2fb1
+            hippo:facets: []
+            hippo:modes: []
+            hippo:values: []
+      /workshop:
+        jcr:primaryType: hippo:handle
+        jcr:mixinTypes: ['mix:referenceable']
+        jcr:uuid: 7a29ec60-2689-48b2-aca2-49696c5c23eb
+        /workshop:
+          jcr:primaryType: alvanthippoproject:eventsdocument
+          jcr:mixinTypes: ['mix:referenceable']
+          jcr:uuid: 14ef6697-5bd9-4836-aa7b-d78cb1477087
+          alvanthippoproject:date: 2013-11-12T13:00:00+01:00
+          alvanthippoproject:documenttype: event
+          alvanthippoproject:enddate: 2020-06-03T12:27:00+02:00
+          alvanthippoproject:introduction: Workshop starts at 1:00
+          alvanthippoproject:location: Room 600
+          alvanthippoproject:title: Workshop
+          hippo:availability: [live, preview]
+          hippostd:holder: admin
+          hippostd:state: published
+          hippostdpubwf:createdBy: admin
+          hippostdpubwf:creationDate: 2013-11-12T11:16:00+01:00
+          hippostdpubwf:lastModificationDate: 2013-11-12T11:18:00+01:00
+          hippostdpubwf:lastModifiedBy: admin
+          hippostdpubwf:publicationDate: 2013-11-12T12:16:00+01:00
+          hippotranslation:id: 95cea10d-1033-4c2d-8989-164b6f9fc154
+          hippotranslation:locale: en
+          /alvanthippoproject:content:
+            jcr:primaryType: hippostd:html
+            hippostd:content: |-
+              <html>
+                        <body>
+                        <strong>Everybody </strong>
+                        <p>can join the workshop and start practicing what they learned during the last
+                        week.</p>
+
+                        </body>
+                        </html>
+          /alvanthippoproject:image:
+            jcr:primaryType: hippogallerypicker:imagelink
+            hippo:docbase: d035387b-f9ce-49f6-bcb0-9ab6915a2d5f
+            hippo:facets: []
+            hippo:modes: []
+            hippo:values: []

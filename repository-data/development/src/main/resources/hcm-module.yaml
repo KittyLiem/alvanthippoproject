@@ -1,0 +1,7 @@
+group: 
+  name: alvanthippoproject
+  after: hippo-cms
+project: alvanthippoproject
+module: 
+  name: alvanthippoproject-repository-data-development
+  after: alvanthippoproject-repository-data-application

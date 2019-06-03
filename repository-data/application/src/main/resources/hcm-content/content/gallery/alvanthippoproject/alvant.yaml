@@ -1,0 +1,249 @@
+/content/gallery/alvanthippoproject/alvant:
+  jcr:primaryType: hippogallery:stdImageGallery
+  jcr:mixinTypes: ['mix:versionable']
+  jcr:uuid: e68f5574-aaf7-4ba5-bbd9-44ac0f9bdd71
+  hippostd:foldertype: [new-alvanthippoproject-imageset-folder]
+  hippostd:gallerytype: ['alvanthippoproject:imageset']
+  /alva-logo-pms354.svg:
+    jcr:primaryType: hippo:handle
+    jcr:mixinTypes: ['mix:referenceable']
+    jcr:uuid: 65d14dc2-a4b8-4fd8-ba03-fceb83e76470
+    /alva-logo-pms354.svg:
+      jcr:primaryType: alvanthippoproject:imageset
+      hippo:availability: [live, preview]
+      hippogallery:filename: alva-logo-pms354.svg
+      /hippogallery:thumbnail:
+        jcr:primaryType: hippogallery:image
+        hippo:filename: alva-logo-pms354.svg
+        hippogallery:height: 60
+        hippogallery:width: 60
+        jcr:data:
+          type: binary
+          resource: /content/gallery/alvanthippoproject/alvant/alva-logo-pms354.svg/alva-logo-pms354.svg/thumbnail/thumbnail.bin
+        jcr:lastModified: 2019-06-03T13:22:37.719+02:00
+        jcr:mimeType: image/svg+xml
+      /alvanthippoproject:small:
+        jcr:primaryType: hippogallery:image
+        hippogallery:height: 224
+        hippogallery:width: 491
+        jcr:data:
+          type: binary
+          resource: /content/gallery/alvanthippoproject/alvant/alva-logo-pms354.svg/alva-logo-pms354.svg/small/small.bin
+        jcr:lastModified: 2019-06-03T13:22:37.719+02:00
+        jcr:mimeType: image/svg+xml
+      /hippogallery:original:
+        jcr:primaryType: hippogallery:image
+        hippogallery:height: 0
+        hippogallery:width: 0
+        jcr:data:
+          type: binary
+          resource: /content/gallery/alvanthippoproject/alvant/alva-logo-pms354.svg/alva-logo-pms354.svg/original/original.bin
+        jcr:lastModified: 2019-06-03T13:22:37.719+02:00
+        jcr:mimeType: image/svg+xml
+      /alvanthippoproject:large:
+        jcr:primaryType: hippogallery:image
+        hippogallery:height: 302
+        hippogallery:width: 663
+        jcr:data:
+          type: binary
+          resource: /content/gallery/alvanthippoproject/alvant/alva-logo-pms354.svg/alva-logo-pms354.svg/large/large.bin
+        jcr:lastModified: 2019-06-03T13:22:37.719+02:00
+        jcr:mimeType: image/svg+xml
+      /alvanthippoproject:banner:
+        jcr:primaryType: hippogallery:image
+        hippogallery:height: 250
+        hippogallery:width: 1070
+        jcr:data:
+          type: binary
+          resource: /content/gallery/alvanthippoproject/alvant/alva-logo-pms354.svg/alva-logo-pms354.svg/banner/banner.bin
+        jcr:lastModified: 2019-06-03T13:22:37.719+02:00
+        jcr:mimeType: image/svg+xml
+      /alvanthippoproject:largesquare:
+        jcr:primaryType: hippogallery:image
+        hippogallery:height: 663
+        hippogallery:width: 663
+        jcr:data:
+          type: binary
+          resource: /content/gallery/alvanthippoproject/alvant/alva-logo-pms354.svg/alva-logo-pms354.svg/largesquare/largesquare.bin
+        jcr:lastModified: 2019-06-03T13:22:37.719+02:00
+        jcr:mimeType: image/svg+xml
+      /alvanthippoproject:mediumsquare:
+        jcr:primaryType: hippogallery:image
+        hippogallery:height: 313
+        hippogallery:width: 313
+        jcr:data:
+          type: binary
+          resource: /content/gallery/alvanthippoproject/alvant/alva-logo-pms354.svg/alva-logo-pms354.svg/mediumsquare/mediumsquare.bin
+        jcr:lastModified: 2019-06-03T13:22:37.719+02:00
+        jcr:mimeType: image/svg+xml
+      /alvanthippoproject:smallsquare:
+        jcr:primaryType: hippogallery:image
+        hippogallery:height: 233
+        hippogallery:width: 233
+        jcr:data:
+          type: binary
+          resource: /content/gallery/alvanthippoproject/alvant/alva-logo-pms354.svg/alva-logo-pms354.svg/smallsquare/smallsquare.bin
+        jcr:lastModified: 2019-06-03T13:22:37.719+02:00
+        jcr:mimeType: image/svg+xml
+  /hero-ant.1920x0.jpg:
+    jcr:primaryType: hippo:handle
+    jcr:mixinTypes: ['mix:referenceable']
+    jcr:uuid: c16df33d-8342-4746-8a3c-0098fe42a52d
+    /hero-ant.1920x0.jpg:
+      jcr:primaryType: alvanthippoproject:imageset
+      hippo:availability: [live, preview]
+      hippogallery:filename: hero-ant.1920x0.jpg
+      /hippogallery:thumbnail:
+        jcr:primaryType: hippogallery:image
+        hippo:filename: hero-ant.1920x0.jpg
+        hippogallery:height: 40
+        hippogallery:width: 60
+        jcr:data:
+          type: binary
+          resource: /content/gallery/alvanthippoproject/alvant/hero-ant.1920x0.jpg/hero-ant.1920x0.jpg/thumbnail/thumbnail.jpg
+        jcr:lastModified: 2019-06-03T13:22:38.311+02:00
+        jcr:mimeType: image/jpeg
+      /alvanthippoproject:small:
+        jcr:primaryType: hippogallery:image
+        hippogallery:height: 224
+        hippogallery:width: 336
+        jcr:data:
+          type: binary
+          resource: /content/gallery/alvanthippoproject/alvant/hero-ant.1920x0.jpg/hero-ant.1920x0.jpg/small/small.jpg
+        jcr:lastModified: 2019-06-03T13:22:38.311+02:00
+        jcr:mimeType: image/jpeg
+      /hippogallery:original:
+        jcr:primaryType: hippogallery:image
+        hippogallery:height: 800
+        hippogallery:width: 1200
+        jcr:data:
+          type: binary
+          resource: /content/gallery/alvanthippoproject/alvant/hero-ant.1920x0.jpg/hero-ant.1920x0.jpg/original/original.jpg
+        jcr:lastModified: 2019-06-03T13:22:38.311+02:00
+        jcr:mimeType: image/jpeg
+      /alvanthippoproject:large:
+        jcr:primaryType: hippogallery:image
+        hippogallery:height: 302
+        hippogallery:width: 453
+        jcr:data:
+          type: binary
+          resource: /content/gallery/alvanthippoproject/alvant/hero-ant.1920x0.jpg/hero-ant.1920x0.jpg/large/large.jpg
+        jcr:lastModified: 2019-06-03T13:22:38.311+02:00
+        jcr:mimeType: image/jpeg
+      /alvanthippoproject:banner:
+        jcr:primaryType: hippogallery:image
+        hippogallery:height: 250
+        hippogallery:width: 375
+        jcr:data:
+          type: binary
+          resource: /content/gallery/alvanthippoproject/alvant/hero-ant.1920x0.jpg/hero-ant.1920x0.jpg/banner/banner.jpg
+        jcr:lastModified: 2019-06-03T13:22:38.311+02:00
+        jcr:mimeType: image/jpeg
+      /alvanthippoproject:largesquare:
+        jcr:primaryType: hippogallery:image
+        hippogallery:height: 442
+        hippogallery:width: 663
+        jcr:data:
+          type: binary
+          resource: /content/gallery/alvanthippoproject/alvant/hero-ant.1920x0.jpg/hero-ant.1920x0.jpg/largesquare/largesquare.jpg
+        jcr:lastModified: 2019-06-03T13:22:38.311+02:00
+        jcr:mimeType: image/jpeg
+      /alvanthippoproject:mediumsquare:
+        jcr:primaryType: hippogallery:image
+        hippogallery:height: 208
+        hippogallery:width: 312
+        jcr:data:
+          type: binary
+          resource: /content/gallery/alvanthippoproject/alvant/hero-ant.1920x0.jpg/hero-ant.1920x0.jpg/mediumsquare/mediumsquare.jpg
+        jcr:lastModified: 2019-06-03T13:22:38.311+02:00
+        jcr:mimeType: image/jpeg
+      /alvanthippoproject:smallsquare:
+        jcr:primaryType: hippogallery:image
+        hippogallery:height: 155
+        hippogallery:width: 232
+        jcr:data:
+          type: binary
+          resource: /content/gallery/alvanthippoproject/alvant/hero-ant.1920x0.jpg/hero-ant.1920x0.jpg/smallsquare/smallsquare.jpg
+        jcr:lastModified: 2019-06-03T13:22:38.311+02:00
+        jcr:mimeType: image/jpeg
+  /hero-tekst-home.svg:
+    jcr:primaryType: hippo:handle
+    jcr:mixinTypes: ['mix:referenceable']
+    jcr:uuid: c31425a2-94f3-46f2-90c4-4f99d2a54f10
+    /hero-tekst-home.svg:
+      jcr:primaryType: alvanthippoproject:imageset
+      hippo:availability: [live, preview]
+      hippogallery:filename: hero-tekst-home.svg
+      /hippogallery:thumbnail:
+        jcr:primaryType: hippogallery:image
+        hippo:filename: hero-tekst-home.svg
+        hippogallery:height: 60
+        hippogallery:width: 60
+        jcr:data:
+          type: binary
+          resource: /content/gallery/alvanthippoproject/alvant/hero-tekst-home.svg/hero-tekst-home.svg/thumbnail/thumbnail.bin
+        jcr:lastModified: 2019-06-03T13:22:39.304+02:00
+        jcr:mimeType: image/svg+xml
+      /alvanthippoproject:small:
+        jcr:primaryType: hippogallery:image
+        hippogallery:height: 224
+        hippogallery:width: 491
+        jcr:data:
+          type: binary
+          resource: /content/gallery/alvanthippoproject/alvant/hero-tekst-home.svg/hero-tekst-home.svg/small/small.bin
+        jcr:lastModified: 2019-06-03T13:22:39.304+02:00
+        jcr:mimeType: image/svg+xml
+      /hippogallery:original:
+        jcr:primaryType: hippogallery:image
+        hippogallery:height: 0
+        hippogallery:width: 0
+        jcr:data:
+          type: binary
+          resource: /content/gallery/alvanthippoproject/alvant/hero-tekst-home.svg/hero-tekst-home.svg/original/original.bin
+        jcr:lastModified: 2019-06-03T13:22:39.304+02:00
+        jcr:mimeType: image/svg+xml
+      /alvanthippoproject:large:
+        jcr:primaryType: hippogallery:image
+        hippogallery:height: 302
+        hippogallery:width: 663
+        jcr:data:
+          type: binary
+          resource: /content/gallery/alvanthippoproject/alvant/hero-tekst-home.svg/hero-tekst-home.svg/large/large.bin
+        jcr:lastModified: 2019-06-03T13:22:39.304+02:00
+        jcr:mimeType: image/svg+xml
+      /alvanthippoproject:banner:
+        jcr:primaryType: hippogallery:image
+        hippogallery:height: 250
+        hippogallery:width: 1070
+        jcr:data:
+          type: binary
+          resource: /content/gallery/alvanthippoproject/alvant/hero-tekst-home.svg/hero-tekst-home.svg/banner/banner.bin
+        jcr:lastModified: 2019-06-03T13:22:39.304+02:00
+        jcr:mimeType: image/svg+xml
+      /alvanthippoproject:largesquare:
+        jcr:primaryType: hippogallery:image
+        hippogallery:height: 663
+        hippogallery:width: 663
+        jcr:data:
+          type: binary
+          resource: /content/gallery/alvanthippoproject/alvant/hero-tekst-home.svg/hero-tekst-home.svg/largesquare/largesquare.bin
+        jcr:lastModified: 2019-06-03T13:22:39.304+02:00
+        jcr:mimeType: image/svg+xml
+      /alvanthippoproject:mediumsquare:
+        jcr:primaryType: hippogallery:image
+        hippogallery:height: 313
+        hippogallery:width: 313
+        jcr:data:
+          type: binary
+          resource: /content/gallery/alvanthippoproject/alvant/hero-tekst-home.svg/hero-tekst-home.svg/mediumsquare/mediumsquare.bin
+        jcr:lastModified: 2019-06-03T13:22:39.304+02:00
+        jcr:mimeType: image/svg+xml
+      /alvanthippoproject:smallsquare:
+        jcr:primaryType: hippogallery:image
+        hippogallery:height: 233
+        hippogallery:width: 233
+        jcr:data:
+          type: binary
+          resource: /content/gallery/alvanthippoproject/alvant/hero-tekst-home.svg/hero-tekst-home.svg/smallsquare/smallsquare.bin
+        jcr:lastModified: 2019-06-03T13:22:39.304+02:00
+        jcr:mimeType: image/svg+xml

@@ -1,0 +1,5 @@
+definitions:
+  config:
+    /content/gallery:
+      hippostd:foldertype: [new-alvanthippoproject-imageset-folder]
+      hippostd:gallerytype: ['alvanthippoproject:imageset']

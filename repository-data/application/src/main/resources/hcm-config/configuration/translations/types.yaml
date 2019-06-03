@@ -1,0 +1,178 @@
+definitions:
+  config:
+    /hippo:configuration/hippo:translations/hippo:types/alvanthippoproject:bannerdocument:
+      jcr:primaryType: hipposys:resourcebundles
+      /en:
+        jcr:primaryType: hipposys:resourcebundle
+        alvanthippoproject:content: Content
+        alvanthippoproject:image: Image
+        alvanthippoproject:link: Link
+        alvanthippoproject:title: Title
+        jcr:name: Banner
+      /nl:
+        jcr:primaryType: hipposys:resourcebundle
+        alvanthippoproject:content: Inhoud
+        alvanthippoproject:image: Afbeelding
+        alvanthippoproject:link: Link
+        alvanthippoproject:title: Titel
+        jcr:name: Banner
+      /fr:
+        jcr:primaryType: hipposys:resourcebundle
+        alvanthippoproject:content: Contenu
+        alvanthippoproject:image: Image
+        alvanthippoproject:link: Lien
+        alvanthippoproject:title: Titre
+        jcr:name: Bannière
+      /de:
+        jcr:primaryType: hipposys:resourcebundle
+        alvanthippoproject:content: Inhalt
+        alvanthippoproject:image: Abbildung
+        alvanthippoproject:link: Link
+        alvanthippoproject:title: Titel
+        jcr:name: Banner
+    /hippo:configuration/hippo:translations/hippo:types/alvanthippoproject:eventsdocument:
+      jcr:primaryType: hipposys:resourcebundles
+      /en:
+        jcr:primaryType: hipposys:resourcebundle
+        alvanthippoproject:content: Content
+        alvanthippoproject:date: Start date
+        alvanthippoproject:enddate: End date
+        alvanthippoproject:image: Image
+        alvanthippoproject:introduction: Introduction
+        alvanthippoproject:location: Location
+        alvanthippoproject:title: Title
+        jcr:name: Event
+      /nl:
+        jcr:primaryType: hipposys:resourcebundle
+        alvanthippoproject:content: Inhoud
+        alvanthippoproject:date: Startdatum
+        alvanthippoproject:enddate: Einddatum
+        alvanthippoproject:image: Afbeelding
+        alvanthippoproject:introduction: Introductie
+        alvanthippoproject:location: Locatie
+        alvanthippoproject:title: Titel
+        jcr:name: Evenement
+      /fr:
+        jcr:primaryType: hipposys:resourcebundle
+        alvanthippoproject:content: Contenu
+        alvanthippoproject:date: Date de début
+        alvanthippoproject:enddate: Date de fin
+        alvanthippoproject:image: Image
+        alvanthippoproject:introduction: Introduction
+        alvanthippoproject:location: Lieu
+        alvanthippoproject:title: Titre
+        jcr:name: Événement
+      /de:
+        jcr:primaryType: hipposys:resourcebundle
+        alvanthippoproject:content: Inhalt
+        alvanthippoproject:date: Startdatum
+        alvanthippoproject:enddate: Enddatum
+        alvanthippoproject:image: Abbildung
+        alvanthippoproject:introduction: Einführung
+        alvanthippoproject:location: Standort
+        alvanthippoproject:title: Titel
+        jcr:name: Event
+    /hippo:configuration/hippo:translations/hippo:types/alvanthippoproject:newsdocument:
+      jcr:primaryType: hipposys:resourcebundles
+      /en:
+        jcr:primaryType: hipposys:resourcebundle
+        alvanthippoproject:author: Author
+        alvanthippoproject:content: Content
+        alvanthippoproject:date: Date
+        alvanthippoproject:image: Image
+        alvanthippoproject:introduction: Introduction
+        alvanthippoproject:location: Location
+        alvanthippoproject:source: Source
+        alvanthippoproject:title: Title
+        jcr:name: News Item
+      /nl:
+        jcr:primaryType: hipposys:resourcebundle
+        alvanthippoproject:author: Auteur
+        alvanthippoproject:content: Inhoud
+        alvanthippoproject:date: Datum
+        alvanthippoproject:image: Afbeelding
+        alvanthippoproject:introduction: Introductie
+        alvanthippoproject:location: Locatie
+        alvanthippoproject:source: Bron
+        alvanthippoproject:title: Titel
+        jcr:name: Nieuwsbericht
+      /de:
+        jcr:primaryType: hipposys:resourcebundle
+        alvanthippoproject:author: Verfasser
+        alvanthippoproject:content: Inhalt
+        alvanthippoproject:date: Datum
+        alvanthippoproject:image: Abbildung
+        alvanthippoproject:introduction: Einführung
+        alvanthippoproject:location: Standort
+        alvanthippoproject:source: Quelle
+        alvanthippoproject:title: Titel
+        jcr:name: News
+      /fr:
+        jcr:primaryType: hipposys:resourcebundle
+        alvanthippoproject:author: Auteur
+        alvanthippoproject:content: Contenu
+        alvanthippoproject:date: Date
+        alvanthippoproject:image: Image
+        alvanthippoproject:introduction: Introduction
+        alvanthippoproject:location: Lieu
+        alvanthippoproject:source: Source
+        alvanthippoproject:title: Titre
+        jcr:name: Message d'info
+    /hippo:configuration/hippo:translations/hippo:types/alvanthippoproject:contentdocument:
+      jcr:primaryType: hipposys:resourcebundles
+      /en:
+        jcr:primaryType: hipposys:resourcebundle
+        alvanthippoproject:content: Content
+        alvanthippoproject:introduction: Introduction
+        alvanthippoproject:publicationdate: Publication date
+        alvanthippoproject:title: Title
+        jcr:name: Simple Document
+      /nl:
+        jcr:primaryType: hipposys:resourcebundle
+        alvanthippoproject:content: Inhoud
+        alvanthippoproject:introduction: Introductie
+        alvanthippoproject:publicationdate: Publicatiedatum
+        alvanthippoproject:title: Titel
+        jcr:name: Eenvoudig Document
+      /fr:
+        jcr:primaryType: hipposys:resourcebundle
+        alvanthippoproject:content: Contenu
+        alvanthippoproject:introduction: Introduction
+        alvanthippoproject:publicationdate: Date de publication
+        alvanthippoproject:title: Titre
+        jcr:name: Document simple
+      /de:
+        jcr:primaryType: hipposys:resourcebundle
+        alvanthippoproject:content: Inhalt
+        alvanthippoproject:introduction: Einführung
+        alvanthippoproject:publicationdate: Publikationsdatum
+        alvanthippoproject:title: Titel
+        jcr:name: Einfaches Dokument
+    /hippo:configuration/hippo:translations/hippo:types/alvanthippoproject:video:
+      jcr:primaryType: hipposys:resourcebundles
+      /en:
+        jcr:primaryType: hipposys:resourcebundle
+        alvanthippoproject:description: Description
+        alvanthippoproject:link: Video URL
+        alvanthippoproject:title: Title
+        jcr:name: Video
+      /nl:
+        jcr:primaryType: hipposys:resourcebundle
+        alvanthippoproject:description: Beschrijving
+        alvanthippoproject:link: Video URL
+        alvanthippoproject:title: Titel
+        jcr:name: Video
+      /fr:
+        jcr:primaryType: hipposys:resourcebundle
+        alvanthippoproject:description: Description
+        alvanthippoproject:link: URL vidéo
+        alvanthippoproject:title: Titre
+        jcr:name: Vidéo
+      /de:
+        jcr:primaryType: hipposys:resourcebundle
+        alvanthippoproject:description: Beschreibung
+        alvanthippoproject:link: Video-URL
+        alvanthippoproject:title: Titel
+        jcr:name: Video
+    /hippo:configuration/hippo:translations/hippo:types/alvanthippoproject:imageset:
+      jcr:primaryType: hipposys:resourcebundles

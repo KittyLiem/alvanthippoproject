@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<project>
+    <applicationSubModule>application</applicationSubModule>
+    <cmsModule>cms</cmsModule>
+    <confirmParams>false</confirmParams>
+    <developmentSubModule>development</developmentSubModule>
+    <enterprise>true</enterprise>
+    <extraTemplates>true</extraTemplates>
+    <projectNamespace>alvanthippoproject</projectNamespace>
+    <repositoryDataModule>repository-data</repositoryDataModule>
+    <selectedBeansPackage>org.alvant.beans</selectedBeansPackage>
+    <selectedComponentsPackage>org.alvant.components</selectedComponentsPackage>
+    <selectedProjectPackage>org.alvant</selectedProjectPackage>
+    <selectedRestPackage>org.alvant.rest</selectedRestPackage>
+    <setupDone>true</setupDone>
+    <siteModule>site</siteModule>
+    <templateLanguage>freemarker</templateLanguage>
+    <useSamples>true</useSamples>
+    <webfilesSubModule>webfiles</webfilesSubModule>
+</project>

@@ -1,0 +1,49 @@
+definitions:
+  config:
+    /hippo:configuration/hippo:frontend/cms/cms-services/galleryProcessorService/alvanthippoproject:small:
+      .meta:order-before: alvanthippoproject:large
+      jcr:primaryType: frontend:pluginconfig
+      height: 224
+      upscaling: false
+      width: 491
+      compression: 1.0
+      optimize: quality
+    /hippo:configuration/hippo:frontend/cms/cms-services/galleryProcessorService/alvanthippoproject:large:
+      .meta:order-before: alvanthippoproject:banner
+      jcr:primaryType: frontend:pluginconfig
+      height: 302
+      upscaling: false
+      width: 663
+      compression: 1.0
+      optimize: quality
+    /hippo:configuration/hippo:frontend/cms/cms-services/galleryProcessorService/alvanthippoproject:smallsquare:
+      .meta:order-before: alvanthippoproject:mediumsquare
+      jcr:primaryType: frontend:pluginconfig
+      height: 233
+      upscaling: false
+      width: 233
+      compression: 1.0
+      optimize: quality
+    /hippo:configuration/hippo:frontend/cms/cms-services/galleryProcessorService/alvanthippoproject:mediumsquare:
+      .meta:order-before: alvanthippoproject:largesquare
+      jcr:primaryType: frontend:pluginconfig
+      height: 313
+      upscaling: false
+      width: 313
+      compression: 1.0
+      optimize: quality
+    /hippo:configuration/hippo:frontend/cms/cms-services/galleryProcessorService/alvanthippoproject:largesquare:
+      .meta:order-before: alvanthippoproject:banner
+      jcr:primaryType: frontend:pluginconfig
+      height: 663
+      upscaling: false
+      width: 663
+      compression: 1.0
+      optimize: quality
+    /hippo:configuration/hippo:frontend/cms/cms-services/galleryProcessorService/alvanthippoproject:banner:
+      jcr:primaryType: frontend:pluginconfig
+      height: 250
+      upscaling: false
+      width: 1070
+      compression: 1.0
+      optimize: quality
