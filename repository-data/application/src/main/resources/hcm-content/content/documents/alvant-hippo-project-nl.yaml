@@ -1,0 +1,8 @@
+/content/documents/alvant-hippo-project-nl:
+  jcr:primaryType: hippostd:folder
+  jcr:mixinTypes: ['hippo:named', 'hippotranslation:translated', 'mix:versionable']
+  jcr:uuid: 1b261a68-41f2-424a-86fa-c2d875c521f1
+  hippo:name: Alvant Hippo Project NL
+  hippostd:foldertype: [new-translated-folder, new-document]
+  hippotranslation:id: 996bcac5-86cf-49b5-a7a3-16a74863e814
+  hippotranslation:locale: nl

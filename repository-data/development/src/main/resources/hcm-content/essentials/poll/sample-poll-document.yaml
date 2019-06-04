@@ -1,6 +1,7 @@
 /content/documents/alvanthippoproject/polls:
   jcr:primaryType: hippostd:folder
-  jcr:mixinTypes: ['mix:referenceable', 'hippotranslation:translated']
+  jcr:mixinTypes: ['hippotranslation:translated', 'mix:referenceable']
+  jcr:uuid: 3480573e-aef1-44aa-9828-a849e4a85232
   hippostd:foldertype: [new-poll-document, new-poll-folder]
   hippotranslation:id: 793efcae-890e-4507-a520-6c3070d7acab
   hippotranslation:locale: en
@@ -11,9 +12,9 @@
     /example-poll:
       jcr:primaryType: poll:polldocument
       jcr:mixinTypes: ['mix:referenceable', 'mix:versionable']
+      jcr:uuid: 4c9a5ecf-3cb8-42d9-bbfb-11cd37915bc0
       hippo:availability: [live, preview]
       hippostd:state: published
-      hippostd:stateSummary: live
       hippostdpubwf:createdBy: admin
       hippostdpubwf:creationDate: 2014-06-02T17:40:59.190+02:00
       hippostdpubwf:lastModificationDate: 2014-06-02T17:41:51.398+02:00
@@ -23,7 +24,7 @@
         poll:active: true
         poll:introduction: This is an example
         poll:text: Example poll
-        /poll:option:
+        /poll:option[1]:
           jcr:primaryType: poll:option
           poll:label: Hippo Essentials
           poll:value: essentials

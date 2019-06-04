@@ -1,0 +1,66 @@
+/content/documents/alvant-hippo-project-nl/banners:
+  jcr:primaryType: hippostd:folder
+  jcr:mixinTypes: ['hippotranslation:translated', 'mix:versionable']
+  jcr:uuid: db508481-25f5-4594-9a8a-fb73c5195421
+  hippostd:foldertype: [new-banner-document, new-banner-folder]
+  hippotranslation:id: c724150a-ef7f-404f-91af-1f458129921a
+  hippotranslation:locale: nl
+  /uw-partner-in-digitale-transformatie:
+    jcr:primaryType: hippo:handle
+    jcr:mixinTypes: ['hippo:named', 'hippo:versionInfo', 'mix:referenceable']
+    jcr:uuid: cc62c59f-fd7c-48a8-bc71-a6a817a0dc59
+    hippo:name: Uw partner in digitale transformatie
+    hippo:versionHistory: 42990160-804c-4db8-8391-5b9706462102
+    /uw-partner-in-digitale-transformatie[1]:
+      jcr:primaryType: alvanthippoproject:bannerdocument
+      jcr:mixinTypes: ['mix:versionable']
+      jcr:uuid: 3b19ab9b-17a0-4714-8d6e-4c555c343c54
+      alvanthippoproject:title: Your partner in digital transformation
+      hippo:availability: [preview]
+      hippo:related___pathreference: []
+      hippostd:state: unpublished
+      hippostdpubwf:createdBy: admin
+      hippostdpubwf:creationDate: 2019-06-04T11:44:52.626+02:00
+      hippostdpubwf:lastModificationDate: 2019-06-04T11:49:36.158+02:00
+      hippostdpubwf:lastModifiedBy: admin
+      hippotranslation:id: 538619ca-4a10-4c23-b45f-2759d78a0498
+      hippotranslation:locale: nl
+      /alvanthippoproject:content:
+        jcr:primaryType: hippostd:html
+        hippostd:content: <p>Making true on your expectations.</p>
+      /alvanthippoproject:image:
+        jcr:primaryType: hippogallerypicker:imagelink
+        hippo:docbase: c16df33d-8342-4746-8a3c-0098fe42a52d
+        hippo:facets: []
+        hippo:modes: []
+        hippo:values: []
+      /alvanthippoproject:link:
+        jcr:primaryType: hippo:mirror
+        hippo:docbase: cafebabe-cafe-babe-cafe-babecafebabe
+    /uw-partner-in-digitale-transformatie[2]:
+      jcr:primaryType: alvanthippoproject:bannerdocument
+      jcr:mixinTypes: ['mix:referenceable']
+      jcr:uuid: 7287b2cf-edb8-4ae0-bfae-128aaa8c2454
+      alvanthippoproject:title: Your partner in digital transformation
+      hippo:availability: [live]
+      hippo:related___pathreference: []
+      hippostd:state: published
+      hippostdpubwf:createdBy: admin
+      hippostdpubwf:creationDate: 2019-06-04T11:44:52.626+02:00
+      hippostdpubwf:lastModificationDate: 2019-06-04T11:49:36.158+02:00
+      hippostdpubwf:lastModifiedBy: admin
+      hippostdpubwf:publicationDate: 2019-06-04T11:49:39.441+02:00
+      hippotranslation:id: 538619ca-4a10-4c23-b45f-2759d78a0498
+      hippotranslation:locale: nl
+      /alvanthippoproject:content:
+        jcr:primaryType: hippostd:html
+        hippostd:content: <p>Making true on your expectations.</p>
+      /alvanthippoproject:image:
+        jcr:primaryType: hippogallerypicker:imagelink
+        hippo:docbase: c16df33d-8342-4746-8a3c-0098fe42a52d
+        hippo:facets: []
+        hippo:modes: []
+        hippo:values: []
+      /alvanthippoproject:link:
+        jcr:primaryType: hippo:mirror
+        hippo:docbase: cafebabe-cafe-babe-cafe-babecafebabe

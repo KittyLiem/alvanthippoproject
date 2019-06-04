@@ -12,4 +12,8 @@ definitions:
           .meta:residual-child-node-category: content
           jcr:primaryType: hst:mount
           hst:homepage: root
-          hst:mountpoint: /hst:hst/hst:sites/alvanthippoproject
+          hst:mountpoint: /hst:hst/hst:sites/alvanthippoprojectnl
+          /en:
+            .meta:residual-child-node-category: content
+            jcr:primaryType: hst:mount
+            hst:mountpoint: hst:hst/hst:sites/alvanthippoproject

@@ -1,8 +1,8 @@
 definitions:
   config:
-    /hst:hst/hst:configurations/alvanthippoproject/hst:pages/eventspage:
+    /hst:hst/hst:configurations/common/hst:pages/newspage:
       jcr:primaryType: hst:component
       hst:referencecomponent: hst:abstractpages/base
       /main:
         jcr:primaryType: hst:containercomponentreference
-        hst:referencecomponent: eventspage/main
+        hst:referencecomponent: newspage/main
