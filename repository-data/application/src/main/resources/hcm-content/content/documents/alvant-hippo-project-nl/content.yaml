@@ -58,3 +58,26 @@
           <p>Als vertrouwenspartner staat Alvant naast u als opdrachtgever. Onze ambitieuze vakmensen hebben met veel opdrachtgevers om de tafel gezeten, veel gezien en nog meer gerealiseerd.<br />
           <br />
           Alvant is een eensgezinde en stevige organisatie. Wij leunen op jaren ervaring binnen het dynamische, digitale domein. Bij Alvant stonden we aan de wieg van de digitalisering van uiteenlopende branches zoals media, toerisme, retail, telecom en transport. Daarnaast hebben we veel ervaring met complexe IT-projecten voor departementen en uitvoeringsorganisaties van de Rijksoverheid.</p>
+    /thuis-pagina-detail[3]:
+      jcr:primaryType: alvanthippoproject:contentdocument
+      jcr:mixinTypes: ['mix:referenceable']
+      jcr:uuid: 308f5c27-e8bb-4fcb-aa54-37cb29f77599
+      alvanthippoproject:introduction: ''
+      alvanthippoproject:publicationdate: 2019-06-04T16:22:00+02:00
+      alvanthippoproject:title: Alvant levert innovatieve totaaloplossingen voor de
+        digitale vraagstukken van morgen.
+      hippo:availability: []
+      hippo:related___pathreference: []
+      hippostd:state: draft
+      hippostdpubwf:createdBy: admin
+      hippostdpubwf:creationDate: 2019-06-04T16:21:45.397+02:00
+      hippostdpubwf:lastModificationDate: 2019-06-04T17:39:15.086+02:00
+      hippostdpubwf:lastModifiedBy: admin
+      hippotranslation:id: 7c885275-ff52-4d01-b48f-f2ea29574ee0
+      hippotranslation:locale: nl
+      /alvanthippoproject:content:
+        jcr:primaryType: hippostd:html
+        hippostd:content: |-
+          <p>Als vertrouwenspartner staat Alvant naast u als opdrachtgever. Onze ambitieuze vakmensen hebben met veel opdrachtgevers om de tafel gezeten, veel gezien en nog meer gerealiseerd.<br />
+          <br />
+          Alvant is een eensgezinde en stevige organisatie. Wij leunen op jaren ervaring binnen het dynamische, digitale domein. Bij Alvant stonden we aan de wieg van de digitalisering van uiteenlopende branches zoals media, toerisme, retail, telecom en transport. Daarnaast hebben we veel ervaring met complexe IT-projecten voor departementen en uitvoeringsorganisaties van de Rijksoverheid.</p>
