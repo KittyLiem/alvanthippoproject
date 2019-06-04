@@ -89,3 +89,79 @@
 
                       </body>
                       </html>
+  /home-page-detail:
+    jcr:primaryType: hippo:handle
+    jcr:mixinTypes: ['hippo:named', 'hippo:versionInfo', 'mix:referenceable']
+    jcr:uuid: c01dbbbd-fe44-4ee7-8ea9-e06a79ec17af
+    hippo:name: Home page detail
+    hippo:versionHistory: b1ab8f11-0df9-4293-8c83-67754c799441
+    /home-page-detail[1]:
+      jcr:primaryType: alvanthippoproject:contentdocument
+      jcr:mixinTypes: ['mix:referenceable']
+      jcr:uuid: b0566973-1185-47cc-b5e5-fbe87236a31d
+      alvanthippoproject:introduction: ''
+      alvanthippoproject:publicationdate: 2019-06-04T16:22:00+02:00
+      alvanthippoproject:title: Alvant provides innovative total solutions for the
+        digital issues of tomorrow.
+      hippo:availability: []
+      hippo:related___pathreference: []
+      hippostd:state: draft
+      hippostdpubwf:createdBy: admin
+      hippostdpubwf:creationDate: 2019-06-04T16:21:45.397+02:00
+      hippostdpubwf:lastModificationDate: 2019-06-04T17:03:33.113+02:00
+      hippostdpubwf:lastModifiedBy: admin
+      hippotranslation:id: 7c885275-ff52-4d01-b48f-f2ea29574ee0
+      hippotranslation:locale: en
+      /alvanthippoproject:content:
+        jcr:primaryType: hippostd:html
+        hippostd:content: |-
+          <p>As a trusted partner, Alvant stands next to you as a client. Our ambitious professionals have sat down with many clients, seen a lot and realized even more.</p>
+
+          <p>Alvant is a&nbsp;united and strong organization. We rely on years of experience within the dynamic, digital domain. At Alvant we were involved in the digitization of various branches such as media, tourism, retail, telecom and transport. In addition, we have extensive experience with complex IT projects for government departments and inspectorates.</p>
+    /home-page-detail[2]:
+      jcr:primaryType: alvanthippoproject:contentdocument
+      jcr:mixinTypes: ['mix:referenceable', 'mix:versionable']
+      jcr:uuid: e8ada4ef-1013-4959-af5b-f7d436734eaa
+      alvanthippoproject:introduction: ''
+      alvanthippoproject:publicationdate: 2019-06-04T16:22:00+02:00
+      alvanthippoproject:title: Alvant provides innovative total solutions for the
+        digital issues of tomorrow.
+      hippo:availability: [preview]
+      hippo:related___pathreference: []
+      hippostd:state: unpublished
+      hippostdpubwf:createdBy: admin
+      hippostdpubwf:creationDate: 2019-06-04T16:21:45.397+02:00
+      hippostdpubwf:lastModificationDate: 2019-06-04T17:04:40.825+02:00
+      hippostdpubwf:lastModifiedBy: admin
+      hippotranslation:id: 7c885275-ff52-4d01-b48f-f2ea29574ee0
+      hippotranslation:locale: en
+      /alvanthippoproject:content:
+        jcr:primaryType: hippostd:html
+        hippostd:content: |-
+          <p>As a trusted partner, Alvant stands next to you as a client. Our ambitious professionals have sat down with many clients, seen a lot and realized even more.</p>
+
+          <p>Alvant is a&nbsp;united and strong organization. We rely on years of experience within the dynamic, digital domain. At Alvant we were involved in the digitization of various branches such as media, tourism, retail, telecom and transport. In addition, we have extensive experience with complex IT projects for government departments and inspectorates.</p>
+    /home-page-detail[3]:
+      jcr:primaryType: alvanthippoproject:contentdocument
+      jcr:mixinTypes: ['mix:referenceable']
+      jcr:uuid: 6f30d635-533c-4bcf-9a8e-bc138c39688a
+      alvanthippoproject:introduction: ''
+      alvanthippoproject:publicationdate: 2019-06-04T16:22:00+02:00
+      alvanthippoproject:title: Alvant provides innovative total solutions for the
+        digital issues of tomorrow.
+      hippo:availability: [live]
+      hippo:related___pathreference: []
+      hippostd:state: published
+      hippostdpubwf:createdBy: admin
+      hippostdpubwf:creationDate: 2019-06-04T16:21:45.397+02:00
+      hippostdpubwf:lastModificationDate: 2019-06-04T17:04:40.825+02:00
+      hippostdpubwf:lastModifiedBy: admin
+      hippostdpubwf:publicationDate: 2019-06-04T17:04:43+02:00
+      hippotranslation:id: 7c885275-ff52-4d01-b48f-f2ea29574ee0
+      hippotranslation:locale: en
+      /alvanthippoproject:content:
+        jcr:primaryType: hippostd:html
+        hippostd:content: |-
+          <p>As a trusted partner, Alvant stands next to you as a client. Our ambitious professionals have sat down with many clients, seen a lot and realized even more.</p>
+
+          <p>Alvant is a&nbsp;united and strong organization. We rely on years of experience within the dynamic, digital domain. At Alvant we were involved in the digitization of various branches such as media, tourism, retail, telecom and transport. In addition, we have extensive experience with complex IT projects for government departments and inspectorates.</p>

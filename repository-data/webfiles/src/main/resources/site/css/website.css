@@ -4203,3 +4203,15 @@ body>.block-112-1-mobile-menu .menu-1>ul>li>ul>li.active>a {
 .team-member-image.img-overlay .item_img_overlay_content {
     background-color: #00ae41;
 }
+
+.simple-content .heading-3 {
+    color:#00ae41;
+    font-size:40px;
+    font-weight:400;
+    font-family:'Capriola'
+}
+
+.simple-content .box{
+    max-width:900px;
+    text-align:left
+}

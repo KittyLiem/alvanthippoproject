@@ -1031,6 +1031,12 @@
 
   .carousel-caption h3 {
     font-size: 24px;
+    box-shadow:0px 0px 0px #fff;
+    min-height:600px;
+    background-position:center center;
+    max-width:100%;
+    background-size:cover;
+    background-repeat:no-repeat;
   }
 
   .carousel-caption p {

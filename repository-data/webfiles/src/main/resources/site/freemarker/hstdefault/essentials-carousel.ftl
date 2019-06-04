@@ -36,7 +36,7 @@
                     <@hst.manageContent hippobean=item/>
                   </#if>
                   <img src="<@hst.link hippobean=item.image.banner />" alt="${item.title?html}"/>
-                    <div class="col col-1 col-md-6 col-md-push-6 carousel-caption">
+                    <div class="col col-1 col-md-4 col-md-push-4 carousel-caption">
                         <#if item.link??>
                             <h3><a href="<@hst.link hippobean=item.link/>">${item.title?html}</a></h3>
                         <#else>

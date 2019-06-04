@@ -1,0 +1,60 @@
+/content/documents/alvant-hippo-project-nl/content:
+  jcr:primaryType: hippostd:folder
+  jcr:mixinTypes: ['hippotranslation:translated', 'mix:versionable']
+  jcr:uuid: 31cabf7b-a65c-4c8a-92f1-98ecabf0a544
+  hippostd:foldertype: [new-content-document, new-content-folder]
+  hippotranslation:id: d4271445-edd2-4654-b31a-51bcaa9ced42
+  hippotranslation:locale: nl
+  /thuis-pagina-detail:
+    jcr:primaryType: hippo:handle
+    jcr:mixinTypes: ['hippo:named', 'hippo:versionInfo', 'mix:referenceable']
+    jcr:uuid: fc200679-fe98-44b7-97a0-c69d7553c947
+    hippo:name: Thuis pagina detail
+    hippo:versionHistory: 7dda450c-f1c1-49dc-937b-7ce4573e23b1
+    /thuis-pagina-detail[1]:
+      jcr:primaryType: alvanthippoproject:contentdocument
+      jcr:mixinTypes: ['mix:versionable']
+      jcr:uuid: 6a6536b6-7866-4f6d-bf9d-dd57376003a5
+      alvanthippoproject:introduction: ''
+      alvanthippoproject:publicationdate: 2019-06-04T16:22:00+02:00
+      alvanthippoproject:title: Alvant levert innovatieve totaaloplossingen voor de
+        digitale vraagstukken van morgen.
+      hippo:availability: [preview]
+      hippo:related___pathreference: []
+      hippostd:state: unpublished
+      hippostdpubwf:createdBy: admin
+      hippostdpubwf:creationDate: 2019-06-04T16:21:45.397+02:00
+      hippostdpubwf:lastModificationDate: 2019-06-04T16:57:30.913+02:00
+      hippostdpubwf:lastModifiedBy: admin
+      hippotranslation:id: 7c885275-ff52-4d01-b48f-f2ea29574ee0
+      hippotranslation:locale: nl
+      /alvanthippoproject:content:
+        jcr:primaryType: hippostd:html
+        hippostd:content: |-
+          <p>Als vertrouwenspartner staat Alvant naast u als opdrachtgever. Onze ambitieuze vakmensen hebben met veel opdrachtgevers om de tafel gezeten, veel gezien en nog meer gerealiseerd.<br />
+          <br />
+          Alvant is een eensgezinde en stevige organisatie. Wij leunen op jaren ervaring binnen het dynamische, digitale domein. Bij Alvant stonden we aan de wieg van de digitalisering van uiteenlopende branches zoals media, toerisme, retail, telecom en transport. Daarnaast hebben we veel ervaring met complexe IT-projecten voor departementen en uitvoeringsorganisaties van de Rijksoverheid.</p>
+    /thuis-pagina-detail[2]:
+      jcr:primaryType: alvanthippoproject:contentdocument
+      jcr:mixinTypes: ['mix:referenceable']
+      jcr:uuid: 47e5e474-7c5e-4bdd-931b-aa385cc3dcac
+      alvanthippoproject:introduction: ''
+      alvanthippoproject:publicationdate: 2019-06-04T16:22:00+02:00
+      alvanthippoproject:title: Alvant levert innovatieve totaaloplossingen voor de
+        digitale vraagstukken van morgen.
+      hippo:availability: [live]
+      hippo:related___pathreference: []
+      hippostd:state: published
+      hippostdpubwf:createdBy: admin
+      hippostdpubwf:creationDate: 2019-06-04T16:21:45.397+02:00
+      hippostdpubwf:lastModificationDate: 2019-06-04T16:57:30.913+02:00
+      hippostdpubwf:lastModifiedBy: admin
+      hippostdpubwf:publicationDate: 2019-06-04T17:02:40.969+02:00
+      hippotranslation:id: 7c885275-ff52-4d01-b48f-f2ea29574ee0
+      hippotranslation:locale: nl
+      /alvanthippoproject:content:
+        jcr:primaryType: hippostd:html
+        hippostd:content: |-
+          <p>Als vertrouwenspartner staat Alvant naast u als opdrachtgever. Onze ambitieuze vakmensen hebben met veel opdrachtgevers om de tafel gezeten, veel gezien en nog meer gerealiseerd.<br />
+          <br />
+          Alvant is een eensgezinde en stevige organisatie. Wij leunen op jaren ervaring binnen het dynamische, digitale domein. Bij Alvant stonden we aan de wieg van de digitalisering van uiteenlopende branches zoals media, toerisme, retail, telecom en transport. Daarnaast hebben we veel ervaring met complexe IT-projecten voor departementen en uitvoeringsorganisaties van de Rijksoverheid.</p>
