@@ -1,4 +1,0 @@
-definitions:
-  config:
-    /hst:hst/hst:configurations/alvanthippoproject/hst:abstractpages:
-      jcr:primaryType: hst:pages
