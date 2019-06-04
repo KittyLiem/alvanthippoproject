@@ -92,6 +92,7 @@
     /hero-ant.1920x0.jpg:
       jcr:primaryType: alvanthippoproject:imageset
       hippo:availability: [live, preview]
+      hippogallery:description: ''
       hippogallery:filename: hero-ant.1920x0.jpg
       /hippogallery:thumbnail:
         jcr:primaryType: hippogallery:image
@@ -133,11 +134,11 @@
       /alvanthippoproject:banner:
         jcr:primaryType: hippogallery:image
         hippogallery:height: 250
-        hippogallery:width: 375
+        hippogallery:width: 1070
         jcr:data:
           type: binary
           resource: /content/gallery/alvanthippoproject/alvant/hero-ant.1920x0.jpg/hero-ant.1920x0.jpg/banner/banner.jpg
-        jcr:lastModified: 2019-06-03T13:22:38.311+02:00
+        jcr:lastModified: 2019-06-04T15:05:01.497+02:00
         jcr:mimeType: image/jpeg
       /alvanthippoproject:largesquare:
         jcr:primaryType: hippogallery:image
@@ -247,3 +248,85 @@
           resource: /content/gallery/alvanthippoproject/alvant/hero-tekst-home.svg/hero-tekst-home.svg/smallsquare/smallsquare.bin
         jcr:lastModified: 2019-06-03T13:22:39.304+02:00
         jcr:mimeType: image/svg+xml
+  /hero-bee.1920x0.jpg:
+    jcr:primaryType: hippo:handle
+    jcr:mixinTypes: ['mix:referenceable']
+    jcr:uuid: 1bdac6d1-7a79-4e92-a128-70c9f5ed7693
+    /hero-bee.1920x0.jpg:
+      jcr:primaryType: alvanthippoproject:imageset
+      hippo:availability: [live, preview]
+      hippogallery:description: ''
+      hippogallery:filename: hero-bee.1920x0.jpg
+      /hippogallery:thumbnail:
+        jcr:primaryType: hippogallery:image
+        hippo:filename: hero-bee.1920x0.jpg
+        hippogallery:height: 40
+        hippogallery:width: 60
+        jcr:data:
+          type: binary
+          resource: /content/gallery/alvanthippoproject/alvant/hero-bee.1920x0.jpg/hero-bee.1920x0.jpg/thumbnail/thumbnail.jpg
+        jcr:lastModified: 2019-06-04T15:08:25.428+02:00
+        jcr:mimeType: image/jpeg
+      /alvanthippoproject:small:
+        jcr:primaryType: hippogallery:image
+        hippogallery:height: 224
+        hippogallery:width: 336
+        jcr:data:
+          type: binary
+          resource: /content/gallery/alvanthippoproject/alvant/hero-bee.1920x0.jpg/hero-bee.1920x0.jpg/small/small.jpg
+        jcr:lastModified: 2019-06-04T15:08:25.428+02:00
+        jcr:mimeType: image/jpeg
+      /hippogallery:original:
+        jcr:primaryType: hippogallery:image
+        hippogallery:height: 800
+        hippogallery:width: 1200
+        jcr:data:
+          type: binary
+          resource: /content/gallery/alvanthippoproject/alvant/hero-bee.1920x0.jpg/hero-bee.1920x0.jpg/original/original.jpg
+        jcr:lastModified: 2019-06-04T15:08:25.428+02:00
+        jcr:mimeType: image/jpeg
+      /alvanthippoproject:large:
+        jcr:primaryType: hippogallery:image
+        hippogallery:height: 302
+        hippogallery:width: 453
+        jcr:data:
+          type: binary
+          resource: /content/gallery/alvanthippoproject/alvant/hero-bee.1920x0.jpg/hero-bee.1920x0.jpg/large/large.jpg
+        jcr:lastModified: 2019-06-04T15:08:25.428+02:00
+        jcr:mimeType: image/jpeg
+      /alvanthippoproject:banner:
+        jcr:primaryType: hippogallery:image
+        hippogallery:height: 250
+        hippogallery:width: 1070
+        jcr:data:
+          type: binary
+          resource: /content/gallery/alvanthippoproject/alvant/hero-bee.1920x0.jpg/hero-bee.1920x0.jpg/banner/banner.jpg
+        jcr:lastModified: 2019-06-04T15:08:45.312+02:00
+        jcr:mimeType: image/jpeg
+      /alvanthippoproject:largesquare:
+        jcr:primaryType: hippogallery:image
+        hippogallery:height: 442
+        hippogallery:width: 663
+        jcr:data:
+          type: binary
+          resource: /content/gallery/alvanthippoproject/alvant/hero-bee.1920x0.jpg/hero-bee.1920x0.jpg/largesquare/largesquare.jpg
+        jcr:lastModified: 2019-06-04T15:08:25.428+02:00
+        jcr:mimeType: image/jpeg
+      /alvanthippoproject:mediumsquare:
+        jcr:primaryType: hippogallery:image
+        hippogallery:height: 208
+        hippogallery:width: 312
+        jcr:data:
+          type: binary
+          resource: /content/gallery/alvanthippoproject/alvant/hero-bee.1920x0.jpg/hero-bee.1920x0.jpg/mediumsquare/mediumsquare.jpg
+        jcr:lastModified: 2019-06-04T15:08:25.428+02:00
+        jcr:mimeType: image/jpeg
+      /alvanthippoproject:smallsquare:
+        jcr:primaryType: hippogallery:image
+        hippogallery:height: 155
+        hippogallery:width: 232
+        jcr:data:
+          type: binary
+          resource: /content/gallery/alvanthippoproject/alvant/hero-bee.1920x0.jpg/hero-bee.1920x0.jpg/smallsquare/smallsquare.jpg
+        jcr:lastModified: 2019-06-04T15:08:25.428+02:00
+        jcr:mimeType: image/jpeg

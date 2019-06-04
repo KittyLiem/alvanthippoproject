@@ -47,6 +47,3 @@
     </div>
 </header>
 
-<@hst.headContribution category="htmlBodyEnd">
-    <script type="text/javascript" src="<@hst.webfile path="/js/alvantscript.js"/>"></script>
-</@hst.headContribution>

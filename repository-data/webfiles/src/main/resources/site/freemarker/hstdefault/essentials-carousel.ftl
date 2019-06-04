@@ -35,8 +35,8 @@
                   <#else>
                     <@hst.manageContent hippobean=item/>
                   </#if>
-                  <img src="<@hst.link hippobean=item.image />" alt="${item.title?html}"/>
-                    <div class="carousel-caption">
+                  <img src="<@hst.link hippobean=item.image.banner />" alt="${item.title?html}"/>
+                    <div class="col col-1 col-md-6 col-md-push-6 carousel-caption">
                         <#if item.link??>
                             <h3><a href="<@hst.link hippobean=item.link/>">${item.title?html}</a></h3>
                         <#else>
@@ -105,14 +105,6 @@
               float: left;
             }
         </style>
-    </@hst.headContribution>
-
-    <@hst.headContribution category="htmlBodyEnd">
-        <script type="text/javascript" src="<@hst.webfile path="/js/jquery-2.1.0.min.js"/>"></script>
-    </@hst.headContribution>
-
-    <@hst.headContribution category="htmlBodyEnd">
-        <script type="text/javascript" src="<@hst.webfile path="/js/bootstrap.min.js"/>"></script>
     </@hst.headContribution>
 
 <#elseif editMode>

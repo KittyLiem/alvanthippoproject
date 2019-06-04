@@ -4198,3 +4198,8 @@ body>.block-112-1-mobile-menu .menu-1>ul>li>ul>li.active>a {
     max-width: 600px;
     width: 100%
 }
+
+.carousel-container .carousel-icon:hover,
+.team-member-image.img-overlay .item_img_overlay_content {
+    background-color: #00ae41;
+}

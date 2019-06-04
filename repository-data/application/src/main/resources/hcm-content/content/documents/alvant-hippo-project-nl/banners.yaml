@@ -21,7 +21,7 @@
       hippostd:state: unpublished
       hippostdpubwf:createdBy: admin
       hippostdpubwf:creationDate: 2019-06-04T11:44:52.626+02:00
-      hippostdpubwf:lastModificationDate: 2019-06-04T12:23:35.390+02:00
+      hippostdpubwf:lastModificationDate: 2019-06-04T15:14:35.791+02:00
       hippostdpubwf:lastModifiedBy: admin
       hippotranslation:id: 538619ca-4a10-4c23-b45f-2759d78a0498
       hippotranslation:locale: nl
@@ -50,9 +50,9 @@
       hippostd:state: published
       hippostdpubwf:createdBy: admin
       hippostdpubwf:creationDate: 2019-06-04T11:44:52.626+02:00
-      hippostdpubwf:lastModificationDate: 2019-06-04T12:23:35.390+02:00
+      hippostdpubwf:lastModificationDate: 2019-06-04T15:14:35.791+02:00
       hippostdpubwf:lastModifiedBy: admin
-      hippostdpubwf:publicationDate: 2019-06-04T12:23:38.132+02:00
+      hippostdpubwf:publicationDate: 2019-06-04T15:14:38.176+02:00
       hippotranslation:id: 538619ca-4a10-4c23-b45f-2759d78a0498
       hippotranslation:locale: nl
       /alvanthippoproject:content:
@@ -80,7 +80,7 @@
       hippostd:state: draft
       hippostdpubwf:createdBy: admin
       hippostdpubwf:creationDate: 2019-06-04T11:44:52.626+02:00
-      hippostdpubwf:lastModificationDate: 2019-06-04T12:23:23.008+02:00
+      hippostdpubwf:lastModificationDate: 2019-06-04T15:14:24.458+02:00
       hippostdpubwf:lastModifiedBy: admin
       hippotranslation:id: 538619ca-4a10-4c23-b45f-2759d78a0498
       hippotranslation:locale: nl
