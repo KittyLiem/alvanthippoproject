@@ -1,0 +1,9 @@
+/hst:hst/hst:configurations/alvanthippoproject/hst:workspace/hst:containers/homepage/main/carousel:
+  jcr:primaryType: hst:containeritemcomponent
+  hst:componentclassname: org.onehippo.cms7.essentials.components.EssentialsCarouselComponent
+  hst:iconpath: images/essentials/catalog-component-icons/carousel.png
+  hst:label: Carousel
+  hst:parameternames: [document1]
+  hst:parametervalues: [banners/your-partner-in-digitale-transformation]
+  hst:template: essentials-carousel
+  hst:xtype: hst.item

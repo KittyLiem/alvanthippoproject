@@ -17,33 +17,28 @@
                     <a class="control-1 handler" href="#">
                         <img src="<@hst.webfile path="/files/menu.333333.svg"/>" />
                     </a>
-                </div>
-                <div class="block-112-1-mobile-menu mobile-menu">
-                    <div class="outer">
-                        <div class="inner box-2">
-                            <#if menu??>
-                                 <#if menu.siteMenuItems??>
-                                      <nav class="menu-1" data-levels="2">
-                                           <ul>
+                    <div class="block-112-1-mobile-menu mobile-menu">
+                        <div class="outer">
+                            <div class="inner box-2">
+                                <#if menu??>
+                                    <#if menu.siteMenuItems??>
+                                        <nav class="menu-1" data-levels="2">
+                                            <ul>
                                                 <#list menu.siteMenuItems as item>
-                                                     <#if  item.selected || item.expanded>
-                                                          <li><a href="<@hst.link link=item.hstLink/>" class="active">
+                                                    <#if  item.selected || item.expanded>
+                                                         <li><a href="<@hst.link link=item.hstLink/>" class="active">
                                                                   <span class="label-nav">${item.name?html}</span> </a></li>
-                                                     <#else>
-                                                          <li><a href="<@hst.link link=item.hstLink/>">
+                                                    <#else>
+                                                         <li><a href="<@hst.link link=item.hstLink/>">
                                                                   <span class="label-nav">${item.name?html}</span></a></li>
-                                                     </#if>
+                                                    </#if>
                                                 </#list>
-                                           </ul>
-                                      </nav>
-                                  </#if>
-                                  <@hst.cmseditmenu menu=menu/>
-                            <#else>
-                                  <#if editMode>
-                                       <h5>[Menu Component]</h5>
-                                       <sub>Click to edit Menu</sub>
-                                  </#if>
-                            </#if>
+                                            </ul>
+                                        </nav>
+                                    </#if>
+                                    <@hst.cmseditmenu menu=menu/>
+                                </#if>
+                            </div>
                         </div>
                     </div>
                 </div>

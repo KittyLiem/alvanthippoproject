@@ -3,5 +3,5 @@ definitions:
     /hst:hst/hst:configurations/alvanthippoprojectnl/hst:workspace/hst:channel:
       .meta:residual-child-node-category: content
       jcr:primaryType: hst:channel
-      hst:name: Alvant Hippo Project
+      hst:name: Alvant Hippo Project NL
       hst:type: website
