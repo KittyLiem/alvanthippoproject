@@ -1,4 +1,5 @@
 /content/documents/alvanthippoproject/content:
+  .meta:order-before: components
   jcr:primaryType: hippostd:folder
   jcr:mixinTypes: ['hippotranslation:translated', 'mix:referenceable']
   jcr:uuid: 78a5855c-fcde-424d-be53-ad129bf64a27
@@ -165,3 +166,279 @@
           <p>As a trusted partner, Alvant stands next to you as a client. Our ambitious professionals have sat down with many clients, seen a lot and realized even more.</p>
 
           <p>Alvant is a&nbsp;united and strong organization. We rely on years of experience within the dynamic, digital domain. At Alvant we were involved in the digitization of various branches such as media, tourism, retail, telecom and transport. In addition, we have extensive experience with complex IT projects for government departments and inspectorates.</p>
+  /landingpages:
+    jcr:primaryType: hippostd:folder
+    jcr:mixinTypes: ['hippotranslation:translated', 'mix:referenceable']
+    jcr:uuid: 8745a71e-df95-4e1f-9e1d-3ef064c001f1
+    hippostd:foldertype: [new-content-document, new-content-folder]
+    hippotranslation:id: 102b8cb5-916b-44a2-a70f-8d6c42f9f8c2
+    hippotranslation:locale: en
+    /about-alvant:
+      jcr:primaryType: hippo:handle
+      jcr:mixinTypes: ['hippo:named', 'hippo:versionInfo', 'mix:referenceable']
+      jcr:uuid: 1acbd39e-58a5-438f-802b-6e7fa715f6b7
+      hippo:name: About Alvant
+      hippo:versionHistory: 524d9444-b841-47eb-b665-ebe7f8ef4f25
+      /about-alvant[1]:
+        jcr:primaryType: alvanthippoproject:contentdocument
+        jcr:mixinTypes: ['mix:referenceable']
+        jcr:uuid: c071c1eb-5050-499d-8a32-84d9b7bf29bf
+        alvanthippoproject:introduction: Alvanters have IT-genes.
+        alvanthippoproject:publicationdate: 2019-06-06T08:20:00+02:00
+        alvanthippoproject:title: About Alvant
+        hippo:availability: []
+        hippo:related___pathreference: []
+        hippostd:state: draft
+        hippostdpubwf:createdBy: admin
+        hippostdpubwf:creationDate: 2019-06-06T08:20:43.545+02:00
+        hippostdpubwf:lastModificationDate: 2019-06-06T08:24:39.863+02:00
+        hippostdpubwf:lastModifiedBy: admin
+        hippotranslation:id: a349c645-0867-48aa-ac03-c94a3a3a6761
+        hippotranslation:locale: en
+        /alvanthippoproject:content:
+          jcr:primaryType: hippostd:html
+          hippostd:content: |-
+            <p>Our staff is central at Alvant and revolves around beautiful, innovative projects. You and your colleagues wil constantly&nbsp;face new challenges. Your creativity is challenged.</p>
+
+            <p>Bij Alvant opereren we op basis van onze kernwaarden. Op grond daarvan nemen wij beslissingen. Dat kenmerkt ons DNA en de Alvant manier van werken. Alvanters zijn gelijkgestemde, creatieve geesten die tot de top van hun vakgebied horen. Medewerkers van Alvant denken en creëren graag out of the box, om tot de meest optimale IT-oplossingen te komen en zou je dan ook gerust Alvanturiers mogen noemen.</p>
+      /about-alvant[2]:
+        jcr:primaryType: alvanthippoproject:contentdocument
+        jcr:mixinTypes: ['mix:referenceable', 'mix:versionable']
+        jcr:uuid: d46036d2-9764-472d-b23b-a094f2922c35
+        alvanthippoproject:introduction: Alvanters have IT-genes.
+        alvanthippoproject:publicationdate: 2019-06-06T08:20:00+02:00
+        alvanthippoproject:title: About Alvant
+        hippo:availability: [preview]
+        hippo:related___pathreference: []
+        hippostd:state: unpublished
+        hippostdpubwf:createdBy: admin
+        hippostdpubwf:creationDate: 2019-06-06T08:20:43.545+02:00
+        hippostdpubwf:lastModificationDate: 2019-06-06T08:33:57.230+02:00
+        hippostdpubwf:lastModifiedBy: admin
+        hippotranslation:id: a349c645-0867-48aa-ac03-c94a3a3a6761
+        hippotranslation:locale: en
+        /alvanthippoproject:content:
+          jcr:primaryType: hippostd:html
+          hippostd:content: |-
+            <p>Our staff is central at Alvant and revolves around beautiful, innovative projects. You and your colleagues wil constantly&nbsp;face new challenges. Your creativity is challenged.</p>
+
+            <p>Bij Alvant opereren we op basis van onze kernwaarden. Op grond daarvan nemen wij beslissingen. Dat kenmerkt ons DNA en de Alvant manier van werken. Alvanters zijn gelijkgestemde, creatieve geesten die tot de top van hun vakgebied horen. Medewerkers van Alvant denken en creëren graag out of the box, om tot de meest optimale IT-oplossingen te komen en zou je dan ook gerust Alvanturiers mogen noemen.</p>
+      /about-alvant[3]:
+        jcr:primaryType: alvanthippoproject:contentdocument
+        jcr:mixinTypes: ['mix:referenceable']
+        jcr:uuid: 1afbdf5e-59ef-4727-b2e6-036d3cd29ee7
+        alvanthippoproject:introduction: Alvanters have IT-genes.
+        alvanthippoproject:publicationdate: 2019-06-06T08:20:00+02:00
+        alvanthippoproject:title: About Alvant
+        hippo:availability: [live]
+        hippo:related___pathreference: []
+        hippostd:state: published
+        hippostdpubwf:createdBy: admin
+        hippostdpubwf:creationDate: 2019-06-06T08:20:43.545+02:00
+        hippostdpubwf:lastModificationDate: 2019-06-06T08:33:57.230+02:00
+        hippostdpubwf:lastModifiedBy: admin
+        hippostdpubwf:publicationDate: 2019-06-06T08:34:00.092+02:00
+        hippotranslation:id: a349c645-0867-48aa-ac03-c94a3a3a6761
+        hippotranslation:locale: en
+        /alvanthippoproject:content:
+          jcr:primaryType: hippostd:html
+          hippostd:content: |-
+            <p>Our staff is central at Alvant and revolves around beautiful, innovative projects. You and your colleagues wil constantly&nbsp;face new challenges. Your creativity is challenged.</p>
+
+            <p>Bij Alvant opereren we op basis van onze kernwaarden. Op grond daarvan nemen wij beslissingen. Dat kenmerkt ons DNA en de Alvant manier van werken. Alvanters zijn gelijkgestemde, creatieve geesten die tot de top van hun vakgebied horen. Medewerkers van Alvant denken en creëren graag out of the box, om tot de meest optimale IT-oplossingen te komen en zou je dan ook gerust Alvanturiers mogen noemen.</p>
+  /information-boxes:
+    jcr:primaryType: hippostd:folder
+    jcr:mixinTypes: ['hippo:named', 'hippotranslation:translated', 'mix:referenceable']
+    jcr:uuid: 8c73d321-c769-4e5c-af99-082f57f742b8
+    hippo:name: Information boxes
+    hippostd:foldertype: [new-informationbox-document, new-informationbox-folder]
+    hippotranslation:id: 9cc8ff95-c451-4045-9ae8-1448fdfc46a0
+    hippotranslation:locale: en
+    /pillar-create:
+      jcr:primaryType: hippo:handle
+      jcr:mixinTypes: ['hippo:named', 'hippo:versionInfo', 'mix:referenceable']
+      jcr:uuid: 105ec3a2-12ff-4685-8583-642a751fdfcf
+      hippo:name: Pillar create
+      hippo:versionHistory: 25de5983-b24a-4fd1-9b4f-968e3ae87122
+      /pillar-create[1]:
+        jcr:primaryType: alvanthippoproject:informationbox
+        jcr:mixinTypes: ['mix:referenceable']
+        jcr:uuid: cc6a25c4-7086-4261-8501-133b1180b379
+        alvanthippoproject:title: Together we create
+        hippo:availability: []
+        hippostd:state: draft
+        hippostdpubwf:createdBy: admin
+        hippostdpubwf:creationDate: 2019-06-06T09:43:57.124+02:00
+        hippostdpubwf:lastModificationDate: 2019-06-06T13:36:50.743+02:00
+        hippostdpubwf:lastModifiedBy: admin
+        hippotranslation:id: ed2de76b-ce76-4154-a16e-6bdb738dda5d
+        hippotranslation:locale: en
+        /alvanthippoproject:content:
+          jcr:primaryType: hippostd:html
+          hippostd:content: <p>LLorem ipsum dolor sit amet, consectetuer adipiscing
+            elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque
+            penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec
+            quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat
+            massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate
+            eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo.
+            Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus.
+            Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean
+            leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam
+            lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra
+            nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam
+            ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget
+            dui.</p>
+        /alvanthippoproject:iconimagelink:
+          jcr:primaryType: hippogallerypicker:imagelink
+          hippo:docbase: 4ba675c7-78d3-40ab-a00a-f0649ea1b7bd
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+      /pillar-create[2]:
+        jcr:primaryType: alvanthippoproject:informationbox
+        jcr:mixinTypes: ['mix:referenceable', 'mix:versionable']
+        jcr:uuid: d788c9ec-abf0-42d9-aeb0-e092931a4080
+        alvanthippoproject:title: Together we create
+        hippo:availability: [preview]
+        hippostd:state: unpublished
+        hippostdpubwf:createdBy: admin
+        hippostdpubwf:creationDate: 2019-06-06T09:43:57.124+02:00
+        hippostdpubwf:lastModificationDate: 2019-06-06T13:37:24.359+02:00
+        hippostdpubwf:lastModifiedBy: admin
+        hippotranslation:id: ed2de76b-ce76-4154-a16e-6bdb738dda5d
+        hippotranslation:locale: en
+        /alvanthippoproject:content:
+          jcr:primaryType: hippostd:html
+          hippostd:content: <p>LLorem ipsum dolor sit amet, consectetuer adipiscing
+            elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque
+            penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec
+            quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat
+            massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate
+            eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo.
+            Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus.
+            Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean
+            leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam
+            lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra
+            nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam
+            ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget
+            dui.</p>
+        /alvanthippoproject:iconimagelink:
+          jcr:primaryType: hippogallerypicker:imagelink
+          hippo:docbase: 4ba675c7-78d3-40ab-a00a-f0649ea1b7bd
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+      /pillar-create[3]:
+        jcr:primaryType: alvanthippoproject:informationbox
+        jcr:mixinTypes: ['mix:referenceable']
+        jcr:uuid: f09766c9-e153-466f-9b8c-fff257588113
+        alvanthippoproject:title: Together we create
+        hippo:availability: [live]
+        hippostd:state: published
+        hippostdpubwf:createdBy: admin
+        hippostdpubwf:creationDate: 2019-06-06T09:43:57.124+02:00
+        hippostdpubwf:lastModificationDate: 2019-06-06T13:37:24.359+02:00
+        hippostdpubwf:lastModifiedBy: admin
+        hippostdpubwf:publicationDate: 2019-06-06T13:37:30.981+02:00
+        hippotranslation:id: ed2de76b-ce76-4154-a16e-6bdb738dda5d
+        hippotranslation:locale: en
+        /alvanthippoproject:content:
+          jcr:primaryType: hippostd:html
+          hippostd:content: <p>LLorem ipsum dolor sit amet, consectetuer adipiscing
+            elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque
+            penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec
+            quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat
+            massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate
+            eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo.
+            Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus.
+            Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean
+            leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam
+            lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra
+            nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam
+            ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget
+            dui.</p>
+        /alvanthippoproject:iconimagelink:
+          jcr:primaryType: hippogallerypicker:imagelink
+          hippo:docbase: 4ba675c7-78d3-40ab-a00a-f0649ea1b7bd
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+    /pillar-connect:
+      jcr:primaryType: hippo:handle
+      jcr:mixinTypes: ['hippo:named', 'hippo:versionInfo', 'mix:referenceable']
+      jcr:uuid: 9e1d4516-27e5-4c06-9d0c-d8dffdb7eb54
+      hippo:name: Pillar connect
+      hippo:versionHistory: 1993c46e-8ba4-4fc1-9aa4-31f803aef54e
+      /pillar-connect[1]:
+        jcr:primaryType: alvanthippoproject:informationbox
+        jcr:mixinTypes: ['mix:referenceable']
+        jcr:uuid: 5b7ebc7f-ef13-4396-bc66-386d81498c7e
+        alvanthippoproject:title: Together we connect
+        hippo:availability: []
+        hippostd:state: draft
+        hippostdpubwf:createdBy: admin
+        hippostdpubwf:creationDate: 2019-06-06T12:13:10.040+02:00
+        hippostdpubwf:lastModificationDate: 2019-06-06T12:13:10.040+02:00
+        hippostdpubwf:lastModifiedBy: admin
+        hippotranslation:id: bde5684e-1231-43a9-9937-a77d8409cac2
+        hippotranslation:locale: en
+        /alvanthippoproject:content:
+          jcr:primaryType: hippostd:html
+          hippostd:content: <p>Our customers and our staff, that is what matters most.
+            Building relations, pursueing joint goals, gaining and giving&nbsp;confidence
+            are central.&nbsp;</p>
+        /alvanthippoproject:iconimagelink:
+          jcr:primaryType: hippogallerypicker:imagelink
+          hippo:docbase: 8b7a79e2-fa52-49c8-85fb-1a7f4dbecaf5
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+      /pillar-connect[2]:
+        jcr:primaryType: alvanthippoproject:informationbox
+        jcr:mixinTypes: ['mix:referenceable', 'mix:versionable']
+        jcr:uuid: 3c3ce167-eec5-4af0-8b9e-2e872549487e
+        alvanthippoproject:title: Together we connect
+        hippo:availability: [preview]
+        hippostd:state: unpublished
+        hippostdpubwf:createdBy: admin
+        hippostdpubwf:creationDate: 2019-06-06T12:13:10.040+02:00
+        hippostdpubwf:lastModificationDate: 2019-06-06T12:18:53.966+02:00
+        hippostdpubwf:lastModifiedBy: admin
+        hippotranslation:id: bde5684e-1231-43a9-9937-a77d8409cac2
+        hippotranslation:locale: en
+        /alvanthippoproject:content:
+          jcr:primaryType: hippostd:html
+          hippostd:content: <p>Our customers and our staff, that is what matters most.
+            Building relations, pursueing joint goals, gaining and giving&nbsp;confidence
+            are central.&nbsp;</p>
+        /alvanthippoproject:iconimagelink:
+          jcr:primaryType: hippogallerypicker:imagelink
+          hippo:docbase: 8b7a79e2-fa52-49c8-85fb-1a7f4dbecaf5
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+      /pillar-connect[3]:
+        jcr:primaryType: alvanthippoproject:informationbox
+        jcr:mixinTypes: ['mix:referenceable']
+        jcr:uuid: ae56612f-6836-4e94-a914-ff19fba23319
+        alvanthippoproject:title: Together we connect
+        hippo:availability: [live]
+        hippostd:state: published
+        hippostdpubwf:createdBy: admin
+        hippostdpubwf:creationDate: 2019-06-06T12:13:10.040+02:00
+        hippostdpubwf:lastModificationDate: 2019-06-06T12:18:53.966+02:00
+        hippostdpubwf:lastModifiedBy: admin
+        hippostdpubwf:publicationDate: 2019-06-06T12:18:56.528+02:00
+        hippotranslation:id: bde5684e-1231-43a9-9937-a77d8409cac2
+        hippotranslation:locale: en
+        /alvanthippoproject:content:
+          jcr:primaryType: hippostd:html
+          hippostd:content: <p>Our customers and our staff, that is what matters most.
+            Building relations, pursueing joint goals, gaining and giving&nbsp;confidence
+            are central.&nbsp;</p>
+        /alvanthippoproject:iconimagelink:
+          jcr:primaryType: hippogallerypicker:imagelink
+          hippo:docbase: 8b7a79e2-fa52-49c8-85fb-1a7f4dbecaf5
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []

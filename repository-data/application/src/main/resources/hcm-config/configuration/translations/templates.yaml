@@ -34,6 +34,10 @@ definitions:
       new-video-document: new video
       new-alvanthippoproject-imageset-image: New Image
       new-alvanthippoproject-imageset-folder: new folder
+      new-imageset-document: new imageset document
+      new-imageset-folder: new imageset folder
+      new-informationbox-document: new informationbox document
+      new-informationbox-folder: new informationbox folder
     /hippo:configuration/hippo:translations/hippo:templates/fr:
       new-resource-bundle: nouveau resource bundle
       new-untranslated-folder: nouveau dossier non traduit

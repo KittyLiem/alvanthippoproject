@@ -33,3 +33,6 @@ definitions:
     /hst:hst/hst:configurations/hst:default/hst:templates/video-component:
       jcr:primaryType: hst:template
       hst:renderpath: webfile:/freemarker/hstdefault/video-component.ftl
+    /hst:hst/hst:configurations/hst:default/hst:templates/informationbox-main:
+      jcr:primaryType: hst:template
+      hst:renderpath: webfile:/freemarker/alvanthippoproject/informationbox-main.ftl

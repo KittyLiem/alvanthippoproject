@@ -1,4 +1,5 @@
 /content/documents/alvanthippoproject/videos:
+  .meta:order-before: components
   jcr:primaryType: hippostd:folder
   jcr:mixinTypes: ['hippotranslation:translated', 'mix:versionable']
   jcr:uuid: f12f8151-9bf2-4f29-ae24-7d4ade195024

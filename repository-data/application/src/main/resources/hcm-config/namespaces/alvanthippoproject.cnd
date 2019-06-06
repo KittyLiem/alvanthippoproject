@@ -19,6 +19,9 @@
 
 [alvanthippoproject:imageset] > hippogallery:imageset, hippogallery:relaxed
 
+[alvanthippoproject:informationbox] > alvanthippoproject:contentdocument, hippostd:relaxed, hippotranslation:translated
+  orderable
+
 [alvanthippoproject:newsdocument] > alvanthippoproject:basedocument, hippostd:relaxed, hippotranslation:translated
   orderable
 

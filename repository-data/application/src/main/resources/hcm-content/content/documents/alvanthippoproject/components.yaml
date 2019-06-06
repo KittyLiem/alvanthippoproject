@@ -1,0 +1,7 @@
+/content/documents/alvanthippoproject/components:
+  jcr:primaryType: hippostd:folder
+  jcr:mixinTypes: ['hippotranslation:translated', 'mix:versionable']
+  jcr:uuid: 16169cd7-da85-42f5-a258-fb5d6dd6a15e
+  hippostd:foldertype: [new-translated-folder, new-document]
+  hippotranslation:id: 57eeb3ee-1e4b-4972-b01d-03fa98be1954
+  hippotranslation:locale: en

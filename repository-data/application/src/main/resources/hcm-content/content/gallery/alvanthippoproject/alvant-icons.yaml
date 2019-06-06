@@ -1,0 +1,669 @@
+/content/gallery/alvanthippoproject/alvant-icons:
+  jcr:primaryType: hippogallery:stdImageGallery
+  jcr:mixinTypes: ['hippo:named', 'mix:versionable']
+  jcr:uuid: e063c305-bf27-402f-a04c-55834fee49a1
+  hippo:name: alvant icons
+  hippostd:foldertype: [new-alvanthippoproject-imageset-folder]
+  hippostd:gallerytype: ['alvanthippoproject:imageset']
+  /diensten:
+    jcr:primaryType: hippogallery:stdImageGallery
+    jcr:mixinTypes: ['mix:versionable']
+    jcr:uuid: cb9248a0-f113-41fc-96eb-010faf6f12d9
+    hippostd:foldertype: [new-alvanthippoproject-imageset-folder]
+    hippostd:gallerytype: ['alvanthippoproject:imageset']
+    /diensten-agile.svg:
+      jcr:primaryType: hippo:handle
+      jcr:mixinTypes: ['mix:referenceable']
+      jcr:uuid: f72d19c4-d080-429a-a32b-8724ceb9498e
+      /diensten-agile.svg:
+        jcr:primaryType: alvanthippoproject:imageset
+        hippo:availability: [live, preview]
+        hippogallery:filename: diensten-agile.svg
+        /hippogallery:thumbnail:
+          jcr:primaryType: hippogallery:image
+          hippo:filename: diensten-agile.svg
+          hippogallery:height: 60
+          hippogallery:width: 60
+          jcr:data:
+            type: binary
+            resource: /content/gallery/alvanthippoproject/alvant-icons/diensten/diensten-agile.svg/diensten-agile.svg/thumbnail/thumbnail.bin
+          jcr:lastModified: 2019-06-06T14:41:49.115+02:00
+          jcr:mimeType: image/svg+xml
+        /alvanthippoproject:small:
+          jcr:primaryType: hippogallery:image
+          hippogallery:height: 224
+          hippogallery:width: 491
+          jcr:data:
+            type: binary
+            resource: /content/gallery/alvanthippoproject/alvant-icons/diensten/diensten-agile.svg/diensten-agile.svg/small/small.bin
+          jcr:lastModified: 2019-06-06T14:41:49.115+02:00
+          jcr:mimeType: image/svg+xml
+        /hippogallery:original:
+          jcr:primaryType: hippogallery:image
+          hippogallery:height: 0
+          hippogallery:width: 0
+          jcr:data:
+            type: binary
+            resource: /content/gallery/alvanthippoproject/alvant-icons/diensten/diensten-agile.svg/diensten-agile.svg/original/original.bin
+          jcr:lastModified: 2019-06-06T14:41:49.115+02:00
+          jcr:mimeType: image/svg+xml
+        /alvanthippoproject:large:
+          jcr:primaryType: hippogallery:image
+          hippogallery:height: 302
+          hippogallery:width: 663
+          jcr:data:
+            type: binary
+            resource: /content/gallery/alvanthippoproject/alvant-icons/diensten/diensten-agile.svg/diensten-agile.svg/large/large.bin
+          jcr:lastModified: 2019-06-06T14:41:49.115+02:00
+          jcr:mimeType: image/svg+xml
+        /alvanthippoproject:banner:
+          jcr:primaryType: hippogallery:image
+          hippogallery:height: 250
+          hippogallery:width: 1070
+          jcr:data:
+            type: binary
+            resource: /content/gallery/alvanthippoproject/alvant-icons/diensten/diensten-agile.svg/diensten-agile.svg/banner/banner.bin
+          jcr:lastModified: 2019-06-06T14:41:49.115+02:00
+          jcr:mimeType: image/svg+xml
+        /alvanthippoproject:largesquare:
+          jcr:primaryType: hippogallery:image
+          hippogallery:height: 663
+          hippogallery:width: 663
+          jcr:data:
+            type: binary
+            resource: /content/gallery/alvanthippoproject/alvant-icons/diensten/diensten-agile.svg/diensten-agile.svg/largesquare/largesquare.bin
+          jcr:lastModified: 2019-06-06T14:41:49.115+02:00
+          jcr:mimeType: image/svg+xml
+        /alvanthippoproject:mediumsquare:
+          jcr:primaryType: hippogallery:image
+          hippogallery:height: 313
+          hippogallery:width: 313
+          jcr:data:
+            type: binary
+            resource: /content/gallery/alvanthippoproject/alvant-icons/diensten/diensten-agile.svg/diensten-agile.svg/mediumsquare/mediumsquare.bin
+          jcr:lastModified: 2019-06-06T14:41:49.115+02:00
+          jcr:mimeType: image/svg+xml
+        /alvanthippoproject:smallsquare:
+          jcr:primaryType: hippogallery:image
+          hippogallery:height: 233
+          hippogallery:width: 233
+          jcr:data:
+            type: binary
+            resource: /content/gallery/alvanthippoproject/alvant-icons/diensten/diensten-agile.svg/diensten-agile.svg/smallsquare/smallsquare.bin
+          jcr:lastModified: 2019-06-06T14:41:49.115+02:00
+          jcr:mimeType: image/svg+xml
+    /diensten-management.svg:
+      jcr:primaryType: hippo:handle
+      jcr:mixinTypes: ['mix:referenceable']
+      jcr:uuid: 9ac3f01c-9899-442e-8641-4809d7ccd65d
+      /diensten-management.svg:
+        jcr:primaryType: alvanthippoproject:imageset
+        hippo:availability: [live, preview]
+        hippogallery:filename: diensten-management.svg
+        /hippogallery:thumbnail:
+          jcr:primaryType: hippogallery:image
+          hippo:filename: diensten-management.svg
+          hippogallery:height: 60
+          hippogallery:width: 60
+          jcr:data:
+            type: binary
+            resource: /content/gallery/alvanthippoproject/alvant-icons/diensten/diensten-management.svg/diensten-management.svg/thumbnail/thumbnail.bin
+          jcr:lastModified: 2019-06-06T14:41:49.627+02:00
+          jcr:mimeType: image/svg+xml
+        /alvanthippoproject:small:
+          jcr:primaryType: hippogallery:image
+          hippogallery:height: 224
+          hippogallery:width: 491
+          jcr:data:
+            type: binary
+            resource: /content/gallery/alvanthippoproject/alvant-icons/diensten/diensten-management.svg/diensten-management.svg/small/small.bin
+          jcr:lastModified: 2019-06-06T14:41:49.627+02:00
+          jcr:mimeType: image/svg+xml
+        /hippogallery:original:
+          jcr:primaryType: hippogallery:image
+          hippogallery:height: 0
+          hippogallery:width: 0
+          jcr:data:
+            type: binary
+            resource: /content/gallery/alvanthippoproject/alvant-icons/diensten/diensten-management.svg/diensten-management.svg/original/original.bin
+          jcr:lastModified: 2019-06-06T14:41:49.627+02:00
+          jcr:mimeType: image/svg+xml
+        /alvanthippoproject:large:
+          jcr:primaryType: hippogallery:image
+          hippogallery:height: 302
+          hippogallery:width: 663
+          jcr:data:
+            type: binary
+            resource: /content/gallery/alvanthippoproject/alvant-icons/diensten/diensten-management.svg/diensten-management.svg/large/large.bin
+          jcr:lastModified: 2019-06-06T14:41:49.627+02:00
+          jcr:mimeType: image/svg+xml
+        /alvanthippoproject:banner:
+          jcr:primaryType: hippogallery:image
+          hippogallery:height: 250
+          hippogallery:width: 1070
+          jcr:data:
+            type: binary
+            resource: /content/gallery/alvanthippoproject/alvant-icons/diensten/diensten-management.svg/diensten-management.svg/banner/banner.bin
+          jcr:lastModified: 2019-06-06T14:41:49.627+02:00
+          jcr:mimeType: image/svg+xml
+        /alvanthippoproject:largesquare:
+          jcr:primaryType: hippogallery:image
+          hippogallery:height: 663
+          hippogallery:width: 663
+          jcr:data:
+            type: binary
+            resource: /content/gallery/alvanthippoproject/alvant-icons/diensten/diensten-management.svg/diensten-management.svg/largesquare/largesquare.bin
+          jcr:lastModified: 2019-06-06T14:41:49.627+02:00
+          jcr:mimeType: image/svg+xml
+        /alvanthippoproject:mediumsquare:
+          jcr:primaryType: hippogallery:image
+          hippogallery:height: 313
+          hippogallery:width: 313
+          jcr:data:
+            type: binary
+            resource: /content/gallery/alvanthippoproject/alvant-icons/diensten/diensten-management.svg/diensten-management.svg/mediumsquare/mediumsquare.bin
+          jcr:lastModified: 2019-06-06T14:41:49.627+02:00
+          jcr:mimeType: image/svg+xml
+        /alvanthippoproject:smallsquare:
+          jcr:primaryType: hippogallery:image
+          hippogallery:height: 233
+          hippogallery:width: 233
+          jcr:data:
+            type: binary
+            resource: /content/gallery/alvanthippoproject/alvant-icons/diensten/diensten-management.svg/diensten-management.svg/smallsquare/smallsquare.bin
+          jcr:lastModified: 2019-06-06T14:41:49.627+02:00
+          jcr:mimeType: image/svg+xml
+    /diensten-onderhoud.svg:
+      jcr:primaryType: hippo:handle
+      jcr:mixinTypes: ['mix:referenceable']
+      jcr:uuid: cc238902-5924-4f96-b7d6-e39119d0b1d8
+      /diensten-onderhoud.svg:
+        jcr:primaryType: alvanthippoproject:imageset
+        hippo:availability: [live, preview]
+        hippogallery:filename: diensten-onderhoud.svg
+        /hippogallery:thumbnail:
+          jcr:primaryType: hippogallery:image
+          hippo:filename: diensten-onderhoud.svg
+          hippogallery:height: 60
+          hippogallery:width: 60
+          jcr:data:
+            type: binary
+            resource: /content/gallery/alvanthippoproject/alvant-icons/diensten/diensten-onderhoud.svg/diensten-onderhoud.svg/thumbnail/thumbnail.bin
+          jcr:lastModified: 2019-06-06T14:41:49.985+02:00
+          jcr:mimeType: image/svg+xml
+        /alvanthippoproject:small:
+          jcr:primaryType: hippogallery:image
+          hippogallery:height: 224
+          hippogallery:width: 491
+          jcr:data:
+            type: binary
+            resource: /content/gallery/alvanthippoproject/alvant-icons/diensten/diensten-onderhoud.svg/diensten-onderhoud.svg/small/small.bin
+          jcr:lastModified: 2019-06-06T14:41:49.985+02:00
+          jcr:mimeType: image/svg+xml
+        /hippogallery:original:
+          jcr:primaryType: hippogallery:image
+          hippogallery:height: 0
+          hippogallery:width: 0
+          jcr:data:
+            type: binary
+            resource: /content/gallery/alvanthippoproject/alvant-icons/diensten/diensten-onderhoud.svg/diensten-onderhoud.svg/original/original.bin
+          jcr:lastModified: 2019-06-06T14:41:49.985+02:00
+          jcr:mimeType: image/svg+xml
+        /alvanthippoproject:large:
+          jcr:primaryType: hippogallery:image
+          hippogallery:height: 302
+          hippogallery:width: 663
+          jcr:data:
+            type: binary
+            resource: /content/gallery/alvanthippoproject/alvant-icons/diensten/diensten-onderhoud.svg/diensten-onderhoud.svg/large/large.bin
+          jcr:lastModified: 2019-06-06T14:41:49.985+02:00
+          jcr:mimeType: image/svg+xml
+        /alvanthippoproject:banner:
+          jcr:primaryType: hippogallery:image
+          hippogallery:height: 250
+          hippogallery:width: 1070
+          jcr:data:
+            type: binary
+            resource: /content/gallery/alvanthippoproject/alvant-icons/diensten/diensten-onderhoud.svg/diensten-onderhoud.svg/banner/banner.bin
+          jcr:lastModified: 2019-06-06T14:41:49.985+02:00
+          jcr:mimeType: image/svg+xml
+        /alvanthippoproject:largesquare:
+          jcr:primaryType: hippogallery:image
+          hippogallery:height: 663
+          hippogallery:width: 663
+          jcr:data:
+            type: binary
+            resource: /content/gallery/alvanthippoproject/alvant-icons/diensten/diensten-onderhoud.svg/diensten-onderhoud.svg/largesquare/largesquare.bin
+          jcr:lastModified: 2019-06-06T14:41:49.985+02:00
+          jcr:mimeType: image/svg+xml
+        /alvanthippoproject:mediumsquare:
+          jcr:primaryType: hippogallery:image
+          hippogallery:height: 313
+          hippogallery:width: 313
+          jcr:data:
+            type: binary
+            resource: /content/gallery/alvanthippoproject/alvant-icons/diensten/diensten-onderhoud.svg/diensten-onderhoud.svg/mediumsquare/mediumsquare.bin
+          jcr:lastModified: 2019-06-06T14:41:49.985+02:00
+          jcr:mimeType: image/svg+xml
+        /alvanthippoproject:smallsquare:
+          jcr:primaryType: hippogallery:image
+          hippogallery:height: 233
+          hippogallery:width: 233
+          jcr:data:
+            type: binary
+            resource: /content/gallery/alvanthippoproject/alvant-icons/diensten/diensten-onderhoud.svg/diensten-onderhoud.svg/smallsquare/smallsquare.bin
+          jcr:lastModified: 2019-06-06T14:41:49.985+02:00
+          jcr:mimeType: image/svg+xml
+    /diensten-transformatie.svg:
+      jcr:primaryType: hippo:handle
+      jcr:mixinTypes: ['mix:referenceable']
+      jcr:uuid: a50e9a39-bf57-432d-ba02-9a70d90a4615
+      /diensten-transformatie.svg:
+        jcr:primaryType: alvanthippoproject:imageset
+        hippo:availability: [live, preview]
+        hippogallery:filename: diensten-transformatie.svg
+        /hippogallery:thumbnail:
+          jcr:primaryType: hippogallery:image
+          hippo:filename: diensten-transformatie.svg
+          hippogallery:height: 60
+          hippogallery:width: 60
+          jcr:data:
+            type: binary
+            resource: /content/gallery/alvanthippoproject/alvant-icons/diensten/diensten-transformatie.svg/diensten-transformatie.svg/thumbnail/thumbnail.bin
+          jcr:lastModified: 2019-06-06T14:41:50.471+02:00
+          jcr:mimeType: image/svg+xml
+        /alvanthippoproject:small:
+          jcr:primaryType: hippogallery:image
+          hippogallery:height: 224
+          hippogallery:width: 491
+          jcr:data:
+            type: binary
+            resource: /content/gallery/alvanthippoproject/alvant-icons/diensten/diensten-transformatie.svg/diensten-transformatie.svg/small/small.bin
+          jcr:lastModified: 2019-06-06T14:41:50.471+02:00
+          jcr:mimeType: image/svg+xml
+        /hippogallery:original:
+          jcr:primaryType: hippogallery:image
+          hippogallery:height: 0
+          hippogallery:width: 0
+          jcr:data:
+            type: binary
+            resource: /content/gallery/alvanthippoproject/alvant-icons/diensten/diensten-transformatie.svg/diensten-transformatie.svg/original/original.bin
+          jcr:lastModified: 2019-06-06T14:41:50.471+02:00
+          jcr:mimeType: image/svg+xml
+        /alvanthippoproject:large:
+          jcr:primaryType: hippogallery:image
+          hippogallery:height: 302
+          hippogallery:width: 663
+          jcr:data:
+            type: binary
+            resource: /content/gallery/alvanthippoproject/alvant-icons/diensten/diensten-transformatie.svg/diensten-transformatie.svg/large/large.bin
+          jcr:lastModified: 2019-06-06T14:41:50.471+02:00
+          jcr:mimeType: image/svg+xml
+        /alvanthippoproject:banner:
+          jcr:primaryType: hippogallery:image
+          hippogallery:height: 250
+          hippogallery:width: 1070
+          jcr:data:
+            type: binary
+            resource: /content/gallery/alvanthippoproject/alvant-icons/diensten/diensten-transformatie.svg/diensten-transformatie.svg/banner/banner.bin
+          jcr:lastModified: 2019-06-06T14:41:50.471+02:00
+          jcr:mimeType: image/svg+xml
+        /alvanthippoproject:largesquare:
+          jcr:primaryType: hippogallery:image
+          hippogallery:height: 663
+          hippogallery:width: 663
+          jcr:data:
+            type: binary
+            resource: /content/gallery/alvanthippoproject/alvant-icons/diensten/diensten-transformatie.svg/diensten-transformatie.svg/largesquare/largesquare.bin
+          jcr:lastModified: 2019-06-06T14:41:50.471+02:00
+          jcr:mimeType: image/svg+xml
+        /alvanthippoproject:mediumsquare:
+          jcr:primaryType: hippogallery:image
+          hippogallery:height: 313
+          hippogallery:width: 313
+          jcr:data:
+            type: binary
+            resource: /content/gallery/alvanthippoproject/alvant-icons/diensten/diensten-transformatie.svg/diensten-transformatie.svg/mediumsquare/mediumsquare.bin
+          jcr:lastModified: 2019-06-06T14:41:50.471+02:00
+          jcr:mimeType: image/svg+xml
+        /alvanthippoproject:smallsquare:
+          jcr:primaryType: hippogallery:image
+          hippogallery:height: 233
+          hippogallery:width: 233
+          jcr:data:
+            type: binary
+            resource: /content/gallery/alvanthippoproject/alvant-icons/diensten/diensten-transformatie.svg/diensten-transformatie.svg/smallsquare/smallsquare.bin
+          jcr:lastModified: 2019-06-06T14:41:50.471+02:00
+          jcr:mimeType: image/svg+xml
+  /pijlers:
+    jcr:primaryType: hippogallery:stdImageGallery
+    jcr:mixinTypes: ['mix:versionable']
+    jcr:uuid: 9b09912d-a575-4e7f-9820-7422da5bca59
+    hippostd:foldertype: [new-alvanthippoproject-imageset-folder]
+    hippostd:gallerytype: ['alvanthippoproject:imageset']
+    /pijler-creeren.png:
+      jcr:primaryType: hippo:handle
+      jcr:mixinTypes: ['mix:referenceable']
+      jcr:uuid: 4ba675c7-78d3-40ab-a00a-f0649ea1b7bd
+      /pijler-creeren.png:
+        jcr:primaryType: alvanthippoproject:imageset
+        hippo:availability: [live, preview]
+        hippogallery:description: ''
+        hippogallery:filename: alva-pijlers-creeren.00ae41.png
+        /hippogallery:thumbnail:
+          jcr:primaryType: hippogallery:image
+          hippo:filename: alva-pijlers-creeren.00ae41.png
+          hippogallery:height: 60
+          hippogallery:width: 60
+          jcr:data:
+            type: binary
+            resource: /content/gallery/alvanthippoproject/alvant-icons/pijlers/pijler-creeren.png/pijler-creeren.png/thumbnail/thumbnail.png
+          jcr:lastModified: 2019-06-06T13:36:34.861+02:00
+          jcr:mimeType: image/png
+        /alvanthippoproject:small:
+          jcr:primaryType: hippogallery:image
+          hippogallery:height: 85
+          hippogallery:width: 85
+          jcr:data:
+            type: binary
+            resource: /content/gallery/alvanthippoproject/alvant-icons/pijlers/pijler-creeren.png/pijler-creeren.png/small/small.png
+          jcr:lastModified: 2019-06-06T13:36:34.861+02:00
+          jcr:mimeType: image/png
+        /hippogallery:original:
+          jcr:primaryType: hippogallery:image
+          hippogallery:height: 85
+          hippogallery:width: 85
+          jcr:data:
+            type: binary
+            resource: /content/gallery/alvanthippoproject/alvant-icons/pijlers/pijler-creeren.png/pijler-creeren.png/original/original.png
+          jcr:lastModified: 2019-06-06T13:36:34.861+02:00
+          jcr:mimeType: image/png
+        /alvanthippoproject:large:
+          jcr:primaryType: hippogallery:image
+          hippogallery:height: 85
+          hippogallery:width: 85
+          jcr:data:
+            type: binary
+            resource: /content/gallery/alvanthippoproject/alvant-icons/pijlers/pijler-creeren.png/pijler-creeren.png/large/large.png
+          jcr:lastModified: 2019-06-06T13:36:34.861+02:00
+          jcr:mimeType: image/png
+        /alvanthippoproject:banner:
+          jcr:primaryType: hippogallery:image
+          hippogallery:height: 85
+          hippogallery:width: 85
+          jcr:data:
+            type: binary
+            resource: /content/gallery/alvanthippoproject/alvant-icons/pijlers/pijler-creeren.png/pijler-creeren.png/banner/banner.png
+          jcr:lastModified: 2019-06-06T13:36:34.861+02:00
+          jcr:mimeType: image/png
+        /alvanthippoproject:largesquare:
+          jcr:primaryType: hippogallery:image
+          hippogallery:height: 85
+          hippogallery:width: 85
+          jcr:data:
+            type: binary
+            resource: /content/gallery/alvanthippoproject/alvant-icons/pijlers/pijler-creeren.png/pijler-creeren.png/largesquare/largesquare.png
+          jcr:lastModified: 2019-06-06T13:36:34.861+02:00
+          jcr:mimeType: image/png
+        /alvanthippoproject:mediumsquare:
+          jcr:primaryType: hippogallery:image
+          hippogallery:height: 85
+          hippogallery:width: 85
+          jcr:data:
+            type: binary
+            resource: /content/gallery/alvanthippoproject/alvant-icons/pijlers/pijler-creeren.png/pijler-creeren.png/mediumsquare/mediumsquare.png
+          jcr:lastModified: 2019-06-06T13:36:34.861+02:00
+          jcr:mimeType: image/png
+        /alvanthippoproject:smallsquare:
+          jcr:primaryType: hippogallery:image
+          hippogallery:height: 85
+          hippogallery:width: 85
+          jcr:data:
+            type: binary
+            resource: /content/gallery/alvanthippoproject/alvant-icons/pijlers/pijler-creeren.png/pijler-creeren.png/smallsquare/smallsquare.png
+          jcr:lastModified: 2019-06-06T13:36:34.861+02:00
+          jcr:mimeType: image/png
+    /pijler-delen.png:
+      jcr:primaryType: hippo:handle
+      jcr:mixinTypes: ['hippo:named', 'mix:referenceable']
+      jcr:uuid: 0bbe31bd-fd80-45c9-b55d-8034e6a8bac0
+      hippo:name: pijler-delen.png
+      /pijler-delen.png:
+        jcr:primaryType: alvanthippoproject:imageset
+        hippo:availability: [live, preview]
+        hippogallery:filename: alva-pijlers-delen.00ae41.png
+        /hippogallery:thumbnail:
+          jcr:primaryType: hippogallery:image
+          hippo:filename: alva-pijlers-delen.00ae41.png
+          hippogallery:height: 60
+          hippogallery:width: 60
+          jcr:data:
+            type: binary
+            resource: /content/gallery/alvanthippoproject/alvant-icons/pijlers/pijler-delen.png/pijler-delen.png/thumbnail/thumbnail.png
+          jcr:lastModified: 2019-06-06T14:34:56.471+02:00
+          jcr:mimeType: image/png
+        /alvanthippoproject:small:
+          jcr:primaryType: hippogallery:image
+          hippogallery:height: 85
+          hippogallery:width: 85
+          jcr:data:
+            type: binary
+            resource: /content/gallery/alvanthippoproject/alvant-icons/pijlers/pijler-delen.png/pijler-delen.png/small/small.png
+          jcr:lastModified: 2019-06-06T14:34:56.471+02:00
+          jcr:mimeType: image/png
+        /hippogallery:original:
+          jcr:primaryType: hippogallery:image
+          hippogallery:height: 85
+          hippogallery:width: 85
+          jcr:data:
+            type: binary
+            resource: /content/gallery/alvanthippoproject/alvant-icons/pijlers/pijler-delen.png/pijler-delen.png/original/original.png
+          jcr:lastModified: 2019-06-06T14:34:56.471+02:00
+          jcr:mimeType: image/png
+        /alvanthippoproject:large:
+          jcr:primaryType: hippogallery:image
+          hippogallery:height: 85
+          hippogallery:width: 85
+          jcr:data:
+            type: binary
+            resource: /content/gallery/alvanthippoproject/alvant-icons/pijlers/pijler-delen.png/pijler-delen.png/large/large.png
+          jcr:lastModified: 2019-06-06T14:34:56.471+02:00
+          jcr:mimeType: image/png
+        /alvanthippoproject:banner:
+          jcr:primaryType: hippogallery:image
+          hippogallery:height: 85
+          hippogallery:width: 85
+          jcr:data:
+            type: binary
+            resource: /content/gallery/alvanthippoproject/alvant-icons/pijlers/pijler-delen.png/pijler-delen.png/banner/banner.png
+          jcr:lastModified: 2019-06-06T14:34:56.471+02:00
+          jcr:mimeType: image/png
+        /alvanthippoproject:largesquare:
+          jcr:primaryType: hippogallery:image
+          hippogallery:height: 85
+          hippogallery:width: 85
+          jcr:data:
+            type: binary
+            resource: /content/gallery/alvanthippoproject/alvant-icons/pijlers/pijler-delen.png/pijler-delen.png/largesquare/largesquare.png
+          jcr:lastModified: 2019-06-06T14:34:56.471+02:00
+          jcr:mimeType: image/png
+        /alvanthippoproject:mediumsquare:
+          jcr:primaryType: hippogallery:image
+          hippogallery:height: 85
+          hippogallery:width: 85
+          jcr:data:
+            type: binary
+            resource: /content/gallery/alvanthippoproject/alvant-icons/pijlers/pijler-delen.png/pijler-delen.png/mediumsquare/mediumsquare.png
+          jcr:lastModified: 2019-06-06T14:34:56.471+02:00
+          jcr:mimeType: image/png
+        /alvanthippoproject:smallsquare:
+          jcr:primaryType: hippogallery:image
+          hippogallery:height: 85
+          hippogallery:width: 85
+          jcr:data:
+            type: binary
+            resource: /content/gallery/alvanthippoproject/alvant-icons/pijlers/pijler-delen.png/pijler-delen.png/smallsquare/smallsquare.png
+          jcr:lastModified: 2019-06-06T14:34:56.471+02:00
+          jcr:mimeType: image/png
+    /pijler-groeien.png:
+      jcr:primaryType: hippo:handle
+      jcr:mixinTypes: ['mix:referenceable']
+      jcr:uuid: b79d98b8-ba8a-4a73-9e63-5140025174bc
+      /pijler-groeien.png:
+        jcr:primaryType: alvanthippoproject:imageset
+        hippo:availability: [live, preview]
+        hippogallery:filename: alva-pijlers-groeien.00ae41.png
+        /hippogallery:thumbnail:
+          jcr:primaryType: hippogallery:image
+          hippo:filename: alva-pijlers-groeien.00ae41.png
+          hippogallery:height: 60
+          hippogallery:width: 60
+          jcr:data:
+            type: binary
+            resource: /content/gallery/alvanthippoproject/alvant-icons/pijlers/pijler-groeien.png/pijler-groeien.png/thumbnail/thumbnail.png
+          jcr:lastModified: 2019-06-06T14:36:46.461+02:00
+          jcr:mimeType: image/png
+        /alvanthippoproject:small:
+          jcr:primaryType: hippogallery:image
+          hippogallery:height: 85
+          hippogallery:width: 85
+          jcr:data:
+            type: binary
+            resource: /content/gallery/alvanthippoproject/alvant-icons/pijlers/pijler-groeien.png/pijler-groeien.png/small/small.png
+          jcr:lastModified: 2019-06-06T14:36:46.461+02:00
+          jcr:mimeType: image/png
+        /hippogallery:original:
+          jcr:primaryType: hippogallery:image
+          hippogallery:height: 85
+          hippogallery:width: 85
+          jcr:data:
+            type: binary
+            resource: /content/gallery/alvanthippoproject/alvant-icons/pijlers/pijler-groeien.png/pijler-groeien.png/original/original.png
+          jcr:lastModified: 2019-06-06T14:36:46.461+02:00
+          jcr:mimeType: image/png
+        /alvanthippoproject:large:
+          jcr:primaryType: hippogallery:image
+          hippogallery:height: 85
+          hippogallery:width: 85
+          jcr:data:
+            type: binary
+            resource: /content/gallery/alvanthippoproject/alvant-icons/pijlers/pijler-groeien.png/pijler-groeien.png/large/large.png
+          jcr:lastModified: 2019-06-06T14:36:46.461+02:00
+          jcr:mimeType: image/png
+        /alvanthippoproject:banner:
+          jcr:primaryType: hippogallery:image
+          hippogallery:height: 85
+          hippogallery:width: 85
+          jcr:data:
+            type: binary
+            resource: /content/gallery/alvanthippoproject/alvant-icons/pijlers/pijler-groeien.png/pijler-groeien.png/banner/banner.png
+          jcr:lastModified: 2019-06-06T14:36:46.461+02:00
+          jcr:mimeType: image/png
+        /alvanthippoproject:largesquare:
+          jcr:primaryType: hippogallery:image
+          hippogallery:height: 85
+          hippogallery:width: 85
+          jcr:data:
+            type: binary
+            resource: /content/gallery/alvanthippoproject/alvant-icons/pijlers/pijler-groeien.png/pijler-groeien.png/largesquare/largesquare.png
+          jcr:lastModified: 2019-06-06T14:36:46.461+02:00
+          jcr:mimeType: image/png
+        /alvanthippoproject:mediumsquare:
+          jcr:primaryType: hippogallery:image
+          hippogallery:height: 85
+          hippogallery:width: 85
+          jcr:data:
+            type: binary
+            resource: /content/gallery/alvanthippoproject/alvant-icons/pijlers/pijler-groeien.png/pijler-groeien.png/mediumsquare/mediumsquare.png
+          jcr:lastModified: 2019-06-06T14:36:46.461+02:00
+          jcr:mimeType: image/png
+        /alvanthippoproject:smallsquare:
+          jcr:primaryType: hippogallery:image
+          hippogallery:height: 85
+          hippogallery:width: 85
+          jcr:data:
+            type: binary
+            resource: /content/gallery/alvanthippoproject/alvant-icons/pijlers/pijler-groeien.png/pijler-groeien.png/smallsquare/smallsquare.png
+          jcr:lastModified: 2019-06-06T14:36:46.461+02:00
+          jcr:mimeType: image/png
+    /pijler-verbinden.png:
+      jcr:primaryType: hippo:handle
+      jcr:mixinTypes: ['mix:referenceable']
+      jcr:uuid: d95212ec-631a-4996-8ed1-e04357734d72
+      /pijler-verbinden.png:
+        jcr:primaryType: alvanthippoproject:imageset
+        hippo:availability: [live, preview]
+        hippogallery:filename: alva-pijlers-verbinden.00ae41.png
+        /hippogallery:thumbnail:
+          jcr:primaryType: hippogallery:image
+          hippo:filename: alva-pijlers-verbinden.00ae41.png
+          hippogallery:height: 60
+          hippogallery:width: 60
+          jcr:data:
+            type: binary
+            resource: /content/gallery/alvanthippoproject/alvant-icons/pijlers/pijler-verbinden.png/pijler-verbinden.png/thumbnail/thumbnail.png
+          jcr:lastModified: 2019-06-06T14:36:46.868+02:00
+          jcr:mimeType: image/png
+        /alvanthippoproject:small:
+          jcr:primaryType: hippogallery:image
+          hippogallery:height: 85
+          hippogallery:width: 85
+          jcr:data:
+            type: binary
+            resource: /content/gallery/alvanthippoproject/alvant-icons/pijlers/pijler-verbinden.png/pijler-verbinden.png/small/small.png
+          jcr:lastModified: 2019-06-06T14:36:46.868+02:00
+          jcr:mimeType: image/png
+        /hippogallery:original:
+          jcr:primaryType: hippogallery:image
+          hippogallery:height: 85
+          hippogallery:width: 85
+          jcr:data:
+            type: binary
+            resource: /content/gallery/alvanthippoproject/alvant-icons/pijlers/pijler-verbinden.png/pijler-verbinden.png/original/original.png
+          jcr:lastModified: 2019-06-06T14:36:46.868+02:00
+          jcr:mimeType: image/png
+        /alvanthippoproject:large:
+          jcr:primaryType: hippogallery:image
+          hippogallery:height: 85
+          hippogallery:width: 85
+          jcr:data:
+            type: binary
+            resource: /content/gallery/alvanthippoproject/alvant-icons/pijlers/pijler-verbinden.png/pijler-verbinden.png/large/large.png
+          jcr:lastModified: 2019-06-06T14:36:46.868+02:00
+          jcr:mimeType: image/png
+        /alvanthippoproject:banner:
+          jcr:primaryType: hippogallery:image
+          hippogallery:height: 85
+          hippogallery:width: 85
+          jcr:data:
+            type: binary
+            resource: /content/gallery/alvanthippoproject/alvant-icons/pijlers/pijler-verbinden.png/pijler-verbinden.png/banner/banner.png
+          jcr:lastModified: 2019-06-06T14:36:46.868+02:00
+          jcr:mimeType: image/png
+        /alvanthippoproject:largesquare:
+          jcr:primaryType: hippogallery:image
+          hippogallery:height: 85
+          hippogallery:width: 85
+          jcr:data:
+            type: binary
+            resource: /content/gallery/alvanthippoproject/alvant-icons/pijlers/pijler-verbinden.png/pijler-verbinden.png/largesquare/largesquare.png
+          jcr:lastModified: 2019-06-06T14:36:46.868+02:00
+          jcr:mimeType: image/png
+        /alvanthippoproject:mediumsquare:
+          jcr:primaryType: hippogallery:image
+          hippogallery:height: 85
+          hippogallery:width: 85
+          jcr:data:
+            type: binary
+            resource: /content/gallery/alvanthippoproject/alvant-icons/pijlers/pijler-verbinden.png/pijler-verbinden.png/mediumsquare/mediumsquare.png
+          jcr:lastModified: 2019-06-06T14:36:46.868+02:00
+          jcr:mimeType: image/png
+        /alvanthippoproject:smallsquare:
+          jcr:primaryType: hippogallery:image
+          hippogallery:height: 85
+          hippogallery:width: 85
+          jcr:data:
+            type: binary
+            resource: /content/gallery/alvanthippoproject/alvant-icons/pijlers/pijler-verbinden.png/pijler-verbinden.png/smallsquare/smallsquare.png
+          jcr:lastModified: 2019-06-06T14:36:46.868+02:00
+          jcr:mimeType: image/png

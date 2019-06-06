@@ -1,0 +1,5 @@
+/hst:hst/hst:configurations/alvanthippoprojectnl/hst:workspace/hst:sitemenus/main/over Alvant:
+  .meta:order-before: events
+  jcr:primaryType: hst:sitemenuitem
+  hst:referencesitemapitem: over-alvant
+  hst:repobased: false

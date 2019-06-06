@@ -81,3 +81,252 @@
           <p>Als vertrouwenspartner staat Alvant naast u als opdrachtgever. Onze ambitieuze vakmensen hebben met veel opdrachtgevers om de tafel gezeten, veel gezien en nog meer gerealiseerd.<br />
           <br />
           Alvant is een eensgezinde en stevige organisatie. Wij leunen op jaren ervaring binnen het dynamische, digitale domein. Bij Alvant stonden we aan de wieg van de digitalisering van uiteenlopende branches zoals media, toerisme, retail, telecom en transport. Daarnaast hebben we veel ervaring met complexe IT-projecten voor departementen en uitvoeringsorganisaties van de Rijksoverheid.</p>
+  /landingpaginas:
+    jcr:primaryType: hippostd:folder
+    jcr:mixinTypes: ['hippotranslation:translated', 'mix:referenceable']
+    jcr:uuid: a8dd17ef-b30d-43bd-91e8-e7959be31d52
+    hippostd:foldertype: [new-content-document, new-content-folder]
+    hippotranslation:id: 102b8cb5-916b-44a2-a70f-8d6c42f9f8c2
+    hippotranslation:locale: nl
+    /over-alvant:
+      jcr:primaryType: hippo:handle
+      jcr:mixinTypes: ['hippo:named', 'hippo:versionInfo', 'mix:referenceable']
+      jcr:uuid: f0dea579-dc56-4267-bdc6-2936a85cdb60
+      hippo:name: Over Alvant
+      hippo:versionHistory: 680abee9-2fb8-4643-96c3-d0c78234cac2
+      /over-alvant[1]:
+        jcr:primaryType: alvanthippoproject:contentdocument
+        jcr:mixinTypes: ['mix:versionable']
+        jcr:uuid: 94a26c8e-c27c-4bf3-be96-992e057eccdc
+        alvanthippoproject:introduction: Bij Alvanters zit IT in de genen
+        alvanthippoproject:publicationdate: 2019-06-06T08:20:00+02:00
+        alvanthippoproject:title: Over Alvant
+        hippo:availability: [preview]
+        hippo:related___pathreference: []
+        hippostd:state: unpublished
+        hippostdpubwf:createdBy: admin
+        hippostdpubwf:creationDate: 2019-06-06T08:20:43.545+02:00
+        hippostdpubwf:lastModificationDate: 2019-06-06T08:24:31.949+02:00
+        hippostdpubwf:lastModifiedBy: admin
+        hippotranslation:id: a349c645-0867-48aa-ac03-c94a3a3a6761
+        hippotranslation:locale: nl
+        /alvanthippoproject:content:
+          jcr:primaryType: hippostd:html
+          hippostd:content: |-
+            <p>Er zijn weinig bedrijven waar de medewerkers zo centraal staan als bij ons. Bij Alvant draait het om mooie, innovatieve projecten, waardoor jij en je collega’s constant weer voor nieuwe uitdagingen staan. Jouw creativiteit wordt uitgedaagd.</p>
+
+            <p>Bij Alvant opereren we op basis van onze kernwaarden. Op grond daarvan nemen wij beslissingen. Dat kenmerkt ons DNA en de Alvant manier van werken. Alvanters zijn gelijkgestemde, creatieve geesten die tot de top van hun vakgebied horen. Medewerkers van Alvant denken en creëren graag out of the box, om tot de meest optimale IT-oplossingen te komen en zou je dan ook gerust Alvanturiers mogen noemen.</p>
+      /over-alvant[2]:
+        jcr:primaryType: alvanthippoproject:contentdocument
+        jcr:mixinTypes: ['mix:referenceable']
+        jcr:uuid: 3baa1fb7-eb3f-443e-acb2-ae101ad32fc6
+        alvanthippoproject:introduction: Bij Alvanters zit IT in de genen
+        alvanthippoproject:publicationdate: 2019-06-06T08:20:00+02:00
+        alvanthippoproject:title: Over Alvant
+        hippo:availability: []
+        hippo:related___pathreference: []
+        hippostd:state: draft
+        hippostdpubwf:createdBy: admin
+        hippostdpubwf:creationDate: 2019-06-06T08:20:43.545+02:00
+        hippostdpubwf:lastModificationDate: 2019-06-06T08:23:45.287+02:00
+        hippostdpubwf:lastModifiedBy: admin
+        hippotranslation:id: a349c645-0867-48aa-ac03-c94a3a3a6761
+        hippotranslation:locale: nl
+        /alvanthippoproject:content:
+          jcr:primaryType: hippostd:html
+          hippostd:content: |-
+            <p>Er zijn weinig bedrijven waar de medewerkers zo centraal staan als bij ons. Bij Alvant draait het om mooie, innovatieve projecten, waardoor jij en je collega’s constant weer voor nieuwe uitdagingen staan. Jouw creativiteit wordt uitgedaagd.</p>
+
+            <p>Bij Alvant opereren we op basis van onze kernwaarden. Op grond daarvan nemen wij beslissingen. Dat kenmerkt ons DNA en de Alvant manier van werken. Alvanters zijn gelijkgestemde, creatieve geesten die tot de top van hun vakgebied horen. Medewerkers van Alvant denken en creëren graag out of the box, om tot de meest optimale IT-oplossingen te komen en zou je dan ook gerust Alvanturiers mogen noemen.</p>
+      /over-alvant[3]:
+        jcr:primaryType: alvanthippoproject:contentdocument
+        jcr:mixinTypes: ['mix:referenceable']
+        jcr:uuid: 253108e3-cbf2-45ff-aa24-1533aca0658b
+        alvanthippoproject:introduction: Bij Alvanters zit IT in de genen
+        alvanthippoproject:publicationdate: 2019-06-06T08:20:00+02:00
+        alvanthippoproject:title: Over Alvant
+        hippo:availability: [live]
+        hippo:related___pathreference: []
+        hippostd:state: published
+        hippostdpubwf:createdBy: admin
+        hippostdpubwf:creationDate: 2019-06-06T08:20:43.545+02:00
+        hippostdpubwf:lastModificationDate: 2019-06-06T08:24:31.949+02:00
+        hippostdpubwf:lastModifiedBy: admin
+        hippostdpubwf:publicationDate: 2019-06-06T08:24:34.715+02:00
+        hippotranslation:id: a349c645-0867-48aa-ac03-c94a3a3a6761
+        hippotranslation:locale: nl
+        /alvanthippoproject:content:
+          jcr:primaryType: hippostd:html
+          hippostd:content: |-
+            <p>Er zijn weinig bedrijven waar de medewerkers zo centraal staan als bij ons. Bij Alvant draait het om mooie, innovatieve projecten, waardoor jij en je collega’s constant weer voor nieuwe uitdagingen staan. Jouw creativiteit wordt uitgedaagd.</p>
+
+            <p>Bij Alvant opereren we op basis van onze kernwaarden. Op grond daarvan nemen wij beslissingen. Dat kenmerkt ons DNA en de Alvant manier van werken. Alvanters zijn gelijkgestemde, creatieve geesten die tot de top van hun vakgebied horen. Medewerkers van Alvant denken en creëren graag out of the box, om tot de meest optimale IT-oplossingen te komen en zou je dan ook gerust Alvanturiers mogen noemen.</p>
+  /informatie-boxes:
+    jcr:primaryType: hippostd:folder
+    jcr:mixinTypes: ['hippo:named', 'hippotranslation:translated', 'mix:referenceable']
+    jcr:uuid: 2c5222cc-cb94-40e0-b06c-9972cd3d2612
+    hippo:name: 'Informatie boxes '
+    hippostd:foldertype: [new-informationbox-document, new-informationbox-folder]
+    hippotranslation:id: 9cc8ff95-c451-4045-9ae8-1448fdfc46a0
+    hippotranslation:locale: nl
+    /pijler-creeer:
+      jcr:primaryType: hippo:handle
+      jcr:mixinTypes: ['hippo:named', 'hippo:versionInfo', 'mix:referenceable']
+      jcr:uuid: 07c2d98a-ffed-4e38-ac8c-686cb738a983
+      hippo:name: Pijler creeer
+      hippo:versionHistory: a87dc215-b46d-447a-b441-0e795141006b
+      /pijler-creeer[1]:
+        jcr:primaryType: alvanthippoproject:informationbox
+        jcr:mixinTypes: ['mix:versionable']
+        jcr:uuid: 8ebe87f4-85f0-44e0-a798-d94fce4124be
+        alvanthippoproject:title: samen crëeren we
+        hippo:availability: [preview]
+        hippostd:state: unpublished
+        hippostdpubwf:createdBy: admin
+        hippostdpubwf:creationDate: 2019-06-06T09:43:57.124+02:00
+        hippostdpubwf:lastModificationDate: 2019-06-06T13:39:00.900+02:00
+        hippostdpubwf:lastModifiedBy: admin
+        hippotranslation:id: ed2de76b-ce76-4154-a16e-6bdb738dda5d
+        hippotranslation:locale: nl
+        /alvanthippoproject:content:
+          jcr:primaryType: hippostd:html
+          hippostd:content: |-
+            <p>Om zaken te creëren is creativiteit een randvoorwaarde. Creativiteit is een belangrijk onderdeel van ons DNA. Het is belangrijk voor de zelfontplooiing van onze collega’s, maar ook voor de ontwikkeling van Alvant als organisatie. De focus op creëren en creativiteit stelt ons in staat om nieuwe kansen te zien en oplossingen te vinden. Het is onze manier van waarnemen, denken of doen, die noodzakelijk is om tot innovatieve digitale oplossingen te komen.</p>
+
+            <p>bla</p>
+        /alvanthippoproject:iconimagelink:
+          jcr:primaryType: hippogallerypicker:imagelink
+          hippo:docbase: 4ba675c7-78d3-40ab-a00a-f0649ea1b7bd
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+      /pijler-creeer[2]:
+        jcr:primaryType: alvanthippoproject:informationbox
+        jcr:mixinTypes: ['mix:referenceable']
+        jcr:uuid: d40c4690-7b78-4eba-8466-1fdd002ba31d
+        alvanthippoproject:title: samen crëeren we
+        hippo:availability: []
+        hippostd:state: draft
+        hippostdpubwf:createdBy: admin
+        hippostdpubwf:creationDate: 2019-06-06T09:43:57.124+02:00
+        hippostdpubwf:lastModificationDate: 2019-06-06T13:49:42.301+02:00
+        hippostdpubwf:lastModifiedBy: admin
+        hippotranslation:id: ed2de76b-ce76-4154-a16e-6bdb738dda5d
+        hippotranslation:locale: nl
+        /alvanthippoproject:content:
+          jcr:primaryType: hippostd:html
+          hippostd:content: |-
+            <p>Om zaken te creëren is creativiteit een randvoorwaarde. Creativiteit is een belangrijk onderdeel van ons DNA. Het is belangrijk voor de zelfontplooiing van onze collega’s, maar ook voor de ontwikkeling van Alvant als organisatie. De focus op creëren en creativiteit stelt ons in staat om nieuwe kansen te zien en oplossingen te vinden. Het is onze manier van waarnemen, denken of doen, die noodzakelijk is om tot innovatieve digitale oplossingen te komen.</p>
+
+            <p>bla</p>
+        /alvanthippoproject:iconimagelink:
+          jcr:primaryType: hippogallerypicker:imagelink
+          hippo:docbase: 4ba675c7-78d3-40ab-a00a-f0649ea1b7bd
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+      /pijler-creeer[3]:
+        jcr:primaryType: alvanthippoproject:informationbox
+        jcr:mixinTypes: ['mix:referenceable']
+        jcr:uuid: 3dcc20a4-d041-49c4-8782-a293996ef75a
+        alvanthippoproject:title: samen crëeren we
+        hippo:availability: [live]
+        hippostd:state: published
+        hippostdpubwf:createdBy: admin
+        hippostdpubwf:creationDate: 2019-06-06T09:43:57.124+02:00
+        hippostdpubwf:lastModificationDate: 2019-06-06T13:39:00.900+02:00
+        hippostdpubwf:lastModifiedBy: admin
+        hippostdpubwf:publicationDate: 2019-06-06T13:39:03.026+02:00
+        hippotranslation:id: ed2de76b-ce76-4154-a16e-6bdb738dda5d
+        hippotranslation:locale: nl
+        /alvanthippoproject:content:
+          jcr:primaryType: hippostd:html
+          hippostd:content: |-
+            <p>Om zaken te creëren is creativiteit een randvoorwaarde. Creativiteit is een belangrijk onderdeel van ons DNA. Het is belangrijk voor de zelfontplooiing van onze collega’s, maar ook voor de ontwikkeling van Alvant als organisatie. De focus op creëren en creativiteit stelt ons in staat om nieuwe kansen te zien en oplossingen te vinden. Het is onze manier van waarnemen, denken of doen, die noodzakelijk is om tot innovatieve digitale oplossingen te komen.</p>
+
+            <p>bla</p>
+        /alvanthippoproject:iconimagelink:
+          jcr:primaryType: hippogallerypicker:imagelink
+          hippo:docbase: 4ba675c7-78d3-40ab-a00a-f0649ea1b7bd
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+    /pijler-verbinden:
+      jcr:primaryType: hippo:handle
+      jcr:mixinTypes: ['hippo:named', 'hippo:versionInfo', 'mix:referenceable']
+      jcr:uuid: e6d9081c-13a0-4eb0-892e-3b98a8179460
+      hippo:name: Pijler verbinden
+      hippo:versionHistory: bcc1c9a4-b31e-4b06-8e49-b6a40080a117
+      /pijler-verbinden[1]:
+        jcr:primaryType: alvanthippoproject:informationbox
+        jcr:mixinTypes: ['mix:versionable']
+        jcr:uuid: 72a83f51-f8e0-4641-80b9-3744a58f2a3d
+        alvanthippoproject:title: samen verbinden we
+        hippo:availability: [preview]
+        hippostd:state: unpublished
+        hippostdpubwf:createdBy: admin
+        hippostdpubwf:creationDate: 2019-06-06T12:13:10.040+02:00
+        hippostdpubwf:lastModificationDate: 2019-06-06T14:37:18.033+02:00
+        hippostdpubwf:lastModifiedBy: admin
+        hippotranslation:id: bde5684e-1231-43a9-9937-a77d8409cac2
+        hippotranslation:locale: nl
+        /alvanthippoproject:content:
+          jcr:primaryType: hippostd:html
+          hippostd:content: |-
+            <p>Wat voor ons het belangrijkste is, zijn onze klanten en onze mensen. Het opbouwen van relaties, nastreven van gezamenlijke doelen en het krijgen en geven van vertrouwen staat hierbij centraal. Alleen door ervoor te zorgen dat deze combinatie optimaal in balans is, kun je samen tot het beste resultaat komen.&nbsp;<br />
+            Door deze oprechte interesse en het geven van vertrouwen blijven Alvanters zich ontwikkelen. Deze ontwikkeling is noodzakelijk om een goede band met Alvant en de klant te garanderen.</p>
+        /alvanthippoproject:iconimagelink:
+          jcr:primaryType: hippogallerypicker:imagelink
+          hippo:docbase: d95212ec-631a-4996-8ed1-e04357734d72
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+      /pijler-verbinden[2]:
+        jcr:primaryType: alvanthippoproject:informationbox
+        jcr:mixinTypes: ['mix:referenceable']
+        jcr:uuid: 826811fc-469b-4a18-85bc-158e5efa1aab
+        alvanthippoproject:title: samen verbinden we
+        hippo:availability: []
+        hippostd:state: draft
+        hippostdpubwf:createdBy: admin
+        hippostdpubwf:creationDate: 2019-06-06T12:13:10.040+02:00
+        hippostdpubwf:lastModificationDate: 2019-06-06T14:37:05.617+02:00
+        hippostdpubwf:lastModifiedBy: admin
+        hippotranslation:id: bde5684e-1231-43a9-9937-a77d8409cac2
+        hippotranslation:locale: nl
+        /alvanthippoproject:content:
+          jcr:primaryType: hippostd:html
+          hippostd:content: |-
+            <p>Wat voor ons het belangrijkste is, zijn onze klanten en onze mensen. Het opbouwen van relaties, nastreven van gezamenlijke doelen en het krijgen en geven van vertrouwen staat hierbij centraal. Alleen door ervoor te zorgen dat deze combinatie optimaal in balans is, kun je samen tot het beste resultaat komen.&nbsp;<br />
+            Door deze oprechte interesse en het geven van vertrouwen blijven Alvanters zich ontwikkelen. Deze ontwikkeling is noodzakelijk om een goede band met Alvant en de klant te garanderen.</p>
+        /alvanthippoproject:iconimagelink:
+          jcr:primaryType: hippogallerypicker:imagelink
+          hippo:docbase: d95212ec-631a-4996-8ed1-e04357734d72
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+      /pijler-verbinden[3]:
+        jcr:primaryType: alvanthippoproject:informationbox
+        jcr:mixinTypes: ['mix:referenceable']
+        jcr:uuid: d001ff6a-2f2b-42a1-8a1b-a36e8fb7dd3a
+        alvanthippoproject:title: samen verbinden we
+        hippo:availability: [live]
+        hippostd:state: published
+        hippostdpubwf:createdBy: admin
+        hippostdpubwf:creationDate: 2019-06-06T12:13:10.040+02:00
+        hippostdpubwf:lastModificationDate: 2019-06-06T14:37:18.033+02:00
+        hippostdpubwf:lastModifiedBy: admin
+        hippostdpubwf:publicationDate: 2019-06-06T14:37:21.629+02:00
+        hippotranslation:id: bde5684e-1231-43a9-9937-a77d8409cac2
+        hippotranslation:locale: nl
+        /alvanthippoproject:content:
+          jcr:primaryType: hippostd:html
+          hippostd:content: |-
+            <p>Wat voor ons het belangrijkste is, zijn onze klanten en onze mensen. Het opbouwen van relaties, nastreven van gezamenlijke doelen en het krijgen en geven van vertrouwen staat hierbij centraal. Alleen door ervoor te zorgen dat deze combinatie optimaal in balans is, kun je samen tot het beste resultaat komen.&nbsp;<br />
+            Door deze oprechte interesse en het geven van vertrouwen blijven Alvanters zich ontwikkelen. Deze ontwikkeling is noodzakelijk om een goede band met Alvant en de klant te garanderen.</p>
+        /alvanthippoproject:iconimagelink:
+          jcr:primaryType: hippogallerypicker:imagelink
+          hippo:docbase: d95212ec-631a-4996-8ed1-e04357734d72
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
