@@ -1,3 +1,4 @@
 /hst:hst/hst:configurations/alvanthippoprojectnl/hst:workspace/hst:sitemenus/main/content:
+  .meta:order-before: contact
   jcr:primaryType: hst:sitemenuitem
   hst:referencesitemapitem: content

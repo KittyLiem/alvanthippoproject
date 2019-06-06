@@ -11,6 +11,7 @@
     /alva-logo-pms354.svg:
       jcr:primaryType: alvanthippoproject:imageset
       hippo:availability: [live, preview]
+      hippogallery:description: ''
       hippogallery:filename: alva-logo-pms354.svg
       /hippogallery:thumbnail:
         jcr:primaryType: hippogallery:image
@@ -412,3 +413,85 @@
           resource: /content/gallery/alvanthippoproject/alvant/remon-beeld-02.1920x0.jpg/remon-beeld-02.1920x0.jpg/smallsquare/smallsquare.jpg
         jcr:lastModified: 2019-06-04T17:34:59.167+02:00
         jcr:mimeType: image/jpeg
+  /alvant-logo.png:
+    jcr:primaryType: hippo:handle
+    jcr:mixinTypes: ['mix:referenceable']
+    jcr:uuid: 3e3ecc74-6971-42d7-8c19-4c6927caf895
+    /alvant-logo.png:
+      jcr:primaryType: alvanthippoproject:imageset
+      hippo:availability: [live, preview]
+      hippogallery:description: ''
+      hippogallery:filename: alvant-logo.png
+      /hippogallery:thumbnail:
+        jcr:primaryType: hippogallery:image
+        hippo:filename: alvant-logo.png
+        hippogallery:height: 60
+        hippogallery:width: 60
+        jcr:data:
+          type: binary
+          resource: /content/gallery/alvanthippoproject/alvant/alvant-logo.png/alvant-logo.png/thumbnail/thumbnail.png
+        jcr:lastModified: 2019-06-06T15:08:57.395+02:00
+        jcr:mimeType: image/png
+      /alvanthippoproject:small:
+        jcr:primaryType: hippogallery:image
+        hippogallery:height: 224
+        hippogallery:width: 224
+        jcr:data:
+          type: binary
+          resource: /content/gallery/alvanthippoproject/alvant/alvant-logo.png/alvant-logo.png/small/small.png
+        jcr:lastModified: 2019-06-06T15:08:57.395+02:00
+        jcr:mimeType: image/png
+      /hippogallery:original:
+        jcr:primaryType: hippogallery:image
+        hippogallery:height: 255
+        hippogallery:width: 255
+        jcr:data:
+          type: binary
+          resource: /content/gallery/alvanthippoproject/alvant/alvant-logo.png/alvant-logo.png/original/original.png
+        jcr:lastModified: 2019-06-06T15:08:57.395+02:00
+        jcr:mimeType: image/png
+      /alvanthippoproject:large:
+        jcr:primaryType: hippogallery:image
+        hippogallery:height: 255
+        hippogallery:width: 255
+        jcr:data:
+          type: binary
+          resource: /content/gallery/alvanthippoproject/alvant/alvant-logo.png/alvant-logo.png/large/large.png
+        jcr:lastModified: 2019-06-06T15:08:57.395+02:00
+        jcr:mimeType: image/png
+      /alvanthippoproject:banner:
+        jcr:primaryType: hippogallery:image
+        hippogallery:height: 250
+        hippogallery:width: 250
+        jcr:data:
+          type: binary
+          resource: /content/gallery/alvanthippoproject/alvant/alvant-logo.png/alvant-logo.png/banner/banner.png
+        jcr:lastModified: 2019-06-06T15:08:57.395+02:00
+        jcr:mimeType: image/png
+      /alvanthippoproject:largesquare:
+        jcr:primaryType: hippogallery:image
+        hippogallery:height: 255
+        hippogallery:width: 255
+        jcr:data:
+          type: binary
+          resource: /content/gallery/alvanthippoproject/alvant/alvant-logo.png/alvant-logo.png/largesquare/largesquare.png
+        jcr:lastModified: 2019-06-06T15:08:57.395+02:00
+        jcr:mimeType: image/png
+      /alvanthippoproject:mediumsquare:
+        jcr:primaryType: hippogallery:image
+        hippogallery:height: 255
+        hippogallery:width: 255
+        jcr:data:
+          type: binary
+          resource: /content/gallery/alvanthippoproject/alvant/alvant-logo.png/alvant-logo.png/mediumsquare/mediumsquare.png
+        jcr:lastModified: 2019-06-06T15:08:57.395+02:00
+        jcr:mimeType: image/png
+      /alvanthippoproject:smallsquare:
+        jcr:primaryType: hippogallery:image
+        hippogallery:height: 233
+        hippogallery:width: 233
+        jcr:data:
+          type: binary
+          resource: /content/gallery/alvanthippoproject/alvant/alvant-logo.png/alvant-logo.png/smallsquare/smallsquare.png
+        jcr:lastModified: 2019-06-06T15:08:57.395+02:00
+        jcr:mimeType: image/png

@@ -1,4 +1,4 @@
 /hst:hst/hst:configurations/alvanthippoproject/hst:workspace/hst:sitemenus/main/home:
-  .meta:order-before: events
+  .meta:order-before: about Alvant
   jcr:primaryType: hst:sitemenuitem
   hst:referencesitemapitem: root

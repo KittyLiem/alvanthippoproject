@@ -1,0 +1,5 @@
+/hst:hst/hst:configurations/alvanthippoproject/hst:workspace/hst:sitemap/our-services:
+  jcr:primaryType: hst:sitemapitem
+  hst:componentconfigurationid: hst:pages/our-services-contentpage
+  hst:lastmodified: 2019-06-06T15:37:36.708+02:00
+  hst:pagetitle: our services

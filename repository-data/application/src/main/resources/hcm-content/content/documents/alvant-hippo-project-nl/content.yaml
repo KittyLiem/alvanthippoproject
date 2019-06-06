@@ -161,6 +161,51 @@
             <p>Er zijn weinig bedrijven waar de medewerkers zo centraal staan als bij ons. Bij Alvant draait het om mooie, innovatieve projecten, waardoor jij en je collega’s constant weer voor nieuwe uitdagingen staan. Jouw creativiteit wordt uitgedaagd.</p>
 
             <p>Bij Alvant opereren we op basis van onze kernwaarden. Op grond daarvan nemen wij beslissingen. Dat kenmerkt ons DNA en de Alvant manier van werken. Alvanters zijn gelijkgestemde, creatieve geesten die tot de top van hun vakgebied horen. Medewerkers van Alvant denken en creëren graag out of the box, om tot de meest optimale IT-oplossingen te komen en zou je dan ook gerust Alvanturiers mogen noemen.</p>
+    /contact:
+      jcr:primaryType: hippo:handle
+      jcr:mixinTypes: ['hippo:named', 'hippo:versionInfo', 'mix:referenceable']
+      jcr:uuid: fead3098-1d68-4bb1-b7bd-27de92980a92
+      hippo:name: Contact
+      hippo:versionHistory: 0661654c-1815-4067-8e83-b733e668f10c
+      /contact[1]:
+        jcr:primaryType: alvanthippoproject:contentdocument
+        jcr:mixinTypes: ['mix:versionable']
+        jcr:uuid: f872622b-b218-489c-8e1f-4af2c9a2b2e3
+        alvanthippoproject:introduction: ''
+        alvanthippoproject:publicationdate: 2019-06-06T15:46:00+02:00
+        alvanthippoproject:title: Creëer, verbind, deel & groei met ons!
+        hippo:availability: [preview]
+        hippo:related___pathreference: []
+        hippostd:state: unpublished
+        hippostdpubwf:createdBy: admin
+        hippostdpubwf:creationDate: 2019-06-06T15:45:48.781+02:00
+        hippostdpubwf:lastModificationDate: 2019-06-06T15:46:42.233+02:00
+        hippostdpubwf:lastModifiedBy: admin
+        hippotranslation:id: 237c6afe-8360-475f-860f-86e9b2236519
+        hippotranslation:locale: nl
+        /alvanthippoproject:content:
+          jcr:primaryType: hippostd:html
+          hippostd:content: ''
+      /contact[2]:
+        jcr:primaryType: alvanthippoproject:contentdocument
+        jcr:mixinTypes: ['mix:referenceable']
+        jcr:uuid: f03ae91d-a774-4ec1-8892-d6c62c8186e6
+        alvanthippoproject:introduction: ''
+        alvanthippoproject:publicationdate: 2019-06-06T15:46:00+02:00
+        alvanthippoproject:title: Creëer, verbind, deel & groei met ons!
+        hippo:availability: [live]
+        hippo:related___pathreference: []
+        hippostd:state: published
+        hippostdpubwf:createdBy: admin
+        hippostdpubwf:creationDate: 2019-06-06T15:45:48.781+02:00
+        hippostdpubwf:lastModificationDate: 2019-06-06T15:46:42.233+02:00
+        hippostdpubwf:lastModifiedBy: admin
+        hippostdpubwf:publicationDate: 2019-06-06T15:46:46.832+02:00
+        hippotranslation:id: 237c6afe-8360-475f-860f-86e9b2236519
+        hippotranslation:locale: nl
+        /alvanthippoproject:content:
+          jcr:primaryType: hippostd:html
+          hippostd:content: ''
   /informatie-boxes:
     jcr:primaryType: hippostd:folder
     jcr:mixinTypes: ['hippo:named', 'hippotranslation:translated', 'mix:referenceable']
@@ -327,6 +372,69 @@
         /alvanthippoproject:iconimagelink:
           jcr:primaryType: hippogallerypicker:imagelink
           hippo:docbase: d95212ec-631a-4996-8ed1-e04357734d72
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+    /contact-informatie:
+      jcr:primaryType: hippo:handle
+      jcr:mixinTypes: ['hippo:named', 'hippo:versionInfo', 'mix:referenceable']
+      jcr:uuid: b7695521-010f-4f34-87cf-1b691723a825
+      hippo:name: Contact informatie
+      hippo:versionHistory: b5f56230-d9df-4a13-b7cf-e95cf05297e1
+      /contact-informatie[1]:
+        jcr:primaryType: alvanthippoproject:informationbox
+        jcr:mixinTypes: ['mix:versionable']
+        jcr:uuid: 1e02fba2-8b41-4d3b-b4d4-546e981bd95b
+        alvanthippoproject:title: Contact
+        hippo:availability: [preview]
+        hippostd:state: unpublished
+        hippostdpubwf:createdBy: admin
+        hippostdpubwf:creationDate: 2019-06-06T15:55:18.356+02:00
+        hippostdpubwf:lastModificationDate: 2019-06-06T15:57:53.749+02:00
+        hippostdpubwf:lastModifiedBy: admin
+        hippotranslation:id: 414131a0-d14d-497a-87f5-6f6f44fc4805
+        hippotranslation:locale: nl
+        /alvanthippoproject:content:
+          jcr:primaryType: hippostd:html
+          hippostd:content: |-
+            <p><strong>Alvant</strong><br />
+            Verrijn Stuartlaan 30<br />
+            2288 EL Rijswijk<br />
+            T: +31 (0)88 44 82 060<br />
+            E:&nbsp;<a href="mailto:info@alvant.nl">info@alvant.nl</a><br />
+            W:&nbsp;<a href="http://api.whatsapp.com/send?phone=31610413740" target="_blank">Whatsapp</a></p>
+        /alvanthippoproject:iconimagelink:
+          jcr:primaryType: hippogallerypicker:imagelink
+          hippo:docbase: cafebabe-cafe-babe-cafe-babecafebabe
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+      /contact-informatie[2]:
+        jcr:primaryType: alvanthippoproject:informationbox
+        jcr:mixinTypes: ['mix:referenceable']
+        jcr:uuid: 2b21ae83-204c-41d1-ba4f-6f763079b164
+        alvanthippoproject:title: Contact
+        hippo:availability: [live]
+        hippostd:state: published
+        hippostdpubwf:createdBy: admin
+        hippostdpubwf:creationDate: 2019-06-06T15:55:18.356+02:00
+        hippostdpubwf:lastModificationDate: 2019-06-06T15:57:53.749+02:00
+        hippostdpubwf:lastModifiedBy: admin
+        hippostdpubwf:publicationDate: 2019-06-06T15:57:58.827+02:00
+        hippotranslation:id: 414131a0-d14d-497a-87f5-6f6f44fc4805
+        hippotranslation:locale: nl
+        /alvanthippoproject:content:
+          jcr:primaryType: hippostd:html
+          hippostd:content: |-
+            <p><strong>Alvant</strong><br />
+            Verrijn Stuartlaan 30<br />
+            2288 EL Rijswijk<br />
+            T: +31 (0)88 44 82 060<br />
+            E:&nbsp;<a href="mailto:info@alvant.nl">info@alvant.nl</a><br />
+            W:&nbsp;<a href="http://api.whatsapp.com/send?phone=31610413740" target="_blank">Whatsapp</a></p>
+        /alvanthippoproject:iconimagelink:
+          jcr:primaryType: hippogallerypicker:imagelink
+          hippo:docbase: cafebabe-cafe-babe-cafe-babecafebabe
           hippo:facets: []
           hippo:modes: []
           hippo:values: []

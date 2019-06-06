@@ -1,0 +1,4 @@
+/hst:hst/hst:configurations/alvanthippoproject/hst:workspace/hst:sitemenus/main/about Alvant:
+  jcr:primaryType: hst:sitemenuitem
+  hst:referencesitemapitem: about-alvant
+  hst:repobased: false

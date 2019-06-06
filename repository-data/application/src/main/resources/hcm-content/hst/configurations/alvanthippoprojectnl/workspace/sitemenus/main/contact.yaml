@@ -1,0 +1,4 @@
+/hst:hst/hst:configurations/alvanthippoprojectnl/hst:workspace/hst:sitemenus/main/contact:
+  jcr:primaryType: hst:sitemenuitem
+  hst:referencesitemapitem: contact
+  hst:repobased: false
