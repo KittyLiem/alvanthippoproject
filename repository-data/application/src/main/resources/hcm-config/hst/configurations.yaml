@@ -80,6 +80,13 @@ definitions:
               jcr:primaryType: hst:sitemapitem
               hst:componentconfigurationid: hst:pages/informationboxlist
               hst:relativecontentpath: ${parent}/${1}
+          /contact:
+            jcr:primaryType: hst:sitemapitem
+            hst:componentconfigurationid: hst:pages/contact
+            hst:pagetitle: Contact form
+            /_any_:
+              jcr:primaryType: hst:sitemapitem
+              hst:componentconfigurationid: hst:pages/contactformsuccess
         /hst:abstractpages:
           jcr:primaryType: hst:pages
         /hst:pages:
@@ -115,6 +122,18 @@ definitions:
           /contentlist-main-contentlist:
             jcr:primaryType: hst:template
             hst:renderpath: webfile:/freemarker/hstdefault/contentlist-main-contentlist.ftl
+          /informationbox-main:
+            jcr:primaryType: hst:template
+            hst:renderpath: webfile:/freemarker/alvanthippoproject/informationbox-main.ftl
+          /informationboxlist-main:
+            jcr:primaryType: hst:template
+            hst:renderpath: webfile:/freemarker/alvanthippoproject/informationbox-main.ftl
+          /thankyou:
+            jcr:primaryType: hst:template
+            hst:renderpath: webfile:/freemarker/common/thankyou.ftl
+          /contactform:
+            jcr:primaryType: hst:template
+            hst:renderpath: webfile:/freemarker/alvanthippoproject/contactform.ftl
         /hst:sitemenus:
           jcr:primaryType: hst:sitemenus
         /hst:sitemapitemhandlers:

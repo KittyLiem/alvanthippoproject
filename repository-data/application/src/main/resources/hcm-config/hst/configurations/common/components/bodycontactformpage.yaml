@@ -1,0 +1,11 @@
+definitions:
+  config:
+    /hst:hst/hst:configurations/common/hst:components/bodycontactformpage:
+      jcr:primaryType: hst:component
+      hst:referencecomponent: hst:abstractpages/base
+      /main:
+        jcr:primaryType: hst:component
+        hst:componentclassname: org.hippoecm.hst.component.support.SimpleDispatcherHstComponent
+        hst:parameternames: [action-path]
+        hst:parametervalues: [contactform.do]
+        hst:template: contactform
